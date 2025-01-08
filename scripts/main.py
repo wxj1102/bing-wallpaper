@@ -18,6 +18,7 @@ copyright_info = data['images'][0]['copyright']
 image_response = requests.get(link)
 today = datetime.datetime.now().strftime('%Y-%m-%d')
 image_path = f'./images/{today}.jpg'
+thumb_path = f'./images/{today}_thumb.jpg'
 
 # 确保目录存在
 os.makedirs('./images', exist_ok=True)
@@ -25,9 +26,19 @@ os.makedirs('./images', exist_ok=True)
 # 将图片保存到指定路径
 with open(image_path, 'wb') as file:
     file.write(image_response.content)
-
+    
 print(f"Image saved to {image_path}")
 
+# 缩略图
+with Image.open(image_path) as img:
+    # Convert to RGB if the image is not in that mode (e.g., if it's a CMYK image)
+    if img.mode != 'RGB':
+        img = img.convert('RGB')        
+    # Create thumbnail
+    img.thumbnail((128, 128))
+    # Save thumbnail
+    img.save(thumb_path)
+    
 # 更新script.js文件
 script_path = './script.js'
 
