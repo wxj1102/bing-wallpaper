@@ -50,7 +50,7 @@ with open(script_path, 'r', encoding='utf-8') as file:
 for i, line in enumerate(lines):
     if 'const images = [' in line:
         insert_index = i + 1
-        new_entry = f"        {{ src: '{image_path}', name: '{copyright_info}' }},\n"
+        new_entry = f"        {{ src: '{image_path}', thumb: '{thumb_path}', name: '{copyright_info}' }},\n"
         lines.insert(insert_index, new_entry)
         break
 
