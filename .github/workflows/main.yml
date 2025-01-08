@@ -19,7 +19,9 @@ jobs:
         python-version: '3.x'
 
     - name: Install requests
-      run: pip install requests
+      run: |
+        pip install requests
+        pip install pillow
 
     - name: Run download script
       run: python ./scripts/main.py
