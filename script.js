@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-01-08.jpg', thumb: './images/2025-01-08_thumb.jpg', name: '被雪覆盖的长城，中国 (© View Stock/Alamy Stock Photo)' },
         { src: './images/2025-01-08.jpg', name: '被雪覆盖的长城，中国 (© View Stock/Alamy Stock Photo)' }
     ];
 
