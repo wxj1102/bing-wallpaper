@@ -35,7 +35,7 @@ with Image.open(image_path) as img:
     if img.mode != 'RGB':
         img = img.convert('RGB')        
     # Create thumbnail
-    img.thumbnail((128, 128))
+    img.thumbnail((512, 512))
     # Save thumbnail
     img.save(thumb_path)
     
