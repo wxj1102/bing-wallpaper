@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-02-18.jpg', thumb: './images/2025-02-18_thumb.jpg', name: '大蓝洞，伯利兹 (© JamiesOnAMission/Shutterstock)' },
         { src: './images/2025-02-17.jpg', thumb: './images/2025-02-17_thumb.jpg', name: 'Coll d'Ares，加泰罗尼亚比利牛斯​​山脉 (© CRISTIAN IONUT ZAHARIA/Shutterstock)' },
         { src: './images/2025-02-16.jpg', thumb: './images/2025-02-16_thumb.jpg', name: '座头鲸妈妈和宝宝，汤加 (© Chase Dekker/Minden Pictures)' },
         { src: './images/2025-02-15.jpg', thumb: './images/2025-02-15_thumb.jpg', name: '三十槌冰柱，秩父市，日本 (© watayu0821/shutterstock)' },
