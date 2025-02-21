@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-02-21.jpg', thumb: './images/2025-02-21_thumb.jpg', name: '希莫加附近的 Champaka Sarasi 池塘，卡纳塔克邦，印度 (© Amith Nag Photography/Getty Images)' },
         { src: './images/2025-02-20.jpg', thumb: './images/2025-02-20_thumb.jpg', name: '马鹿，加拿大 (© Delbars/Getty Images)' },
         { src: './images/2025-02-19.jpg', thumb: './images/2025-02-19_thumb.jpg', name: '欧亚水獭，莱利斯塔德，荷兰 (© Ernst Dirksen/Minden Pictures)' },
         { src: './images/2025-02-18.jpg', thumb: './images/2025-02-18_thumb.jpg', name: '大蓝洞，伯利兹 (© JamiesOnAMission/Shutterstock)' },
