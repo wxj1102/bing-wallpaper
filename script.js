@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-03-01.jpg', thumb: './images/2025-03-01_thumb.jpg', name: '玛琳湖精灵岛上空的北极光，贾斯珀国家公园，加拿大 (© Mumemories/Getty Images)' },
         { src: './images/2025-02-28.jpg', thumb: './images/2025-02-28_thumb.jpg', name: '虎穴寺，不丹 (© Baron Reznik/Getty Images)' },
         { src: './images/2025-02-27.jpg', thumb: './images/2025-02-27_thumb.jpg', name: '北极熊幼崽，丘吉尔，马尼托巴省，加拿大 (© Eric Baccega/NPL/Minden Pictures)' },
         { src: './images/2025-02-26.jpg', thumb: './images/2025-02-26_thumb.jpg', name: '莱奇湖上的斯托克尔城堡，阿盖尔郡，苏格兰 (© WLDavies/Getty Images)' },
