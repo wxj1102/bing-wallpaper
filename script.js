@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-03-14.jpg', thumb: './images/2025-03-14_thumb.jpg', name: '索尔吉奈特克斯的巨石墓，巴斯克地区，阿拉瓦省，西班牙 (© David Herraez Calzada/plainpicture)' },
         { src: './images/2025-03-12.jpg', thumb: './images/2025-03-12_thumb.jpg', name: '卢瓦尔河畔叙利城堡, 卢瓦尔中心省, 法国 (© StockPhotoAstur/Shutterstock)' },
         { src: './images/2025-03-11.jpg', thumb: './images/2025-03-11_thumb.jpg', name: '努沙佩尼达岛的破碎海滩, 巴厘岛, 印度尼西亚 (© joakimbkk/Getty Images)' },
         { src: './images/2025-03-10.jpg', thumb: './images/2025-03-10_thumb.jpg', name: '在伊沙沙区里正在睡觉的狮子，伊丽莎白女王国家公园，乌干达 (© Gunter Nuyts/Getty Images)' },
