@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-05-13.jpg', thumb: './images/2025-05-13_thumb.jpg', name: '百内国家公园, 巴塔哥尼亚, 智利 (© Marco Bottigelli/Getty Images)' },
         { src: './images/2025-05-12.jpg', thumb: './images/2025-05-12_thumb.jpg', name: '东京的鸢尾花园, 日本 (© M.Arai/Getty Images)' },
         { src: './images/2025-05-11.jpg', thumb: './images/2025-05-11_thumb.jpg', name: '豹妈妈正在梳理她的幼崽，Jao保护区，博茨瓦纳 (© Suzi Eszterhas/Minden Pictures)' },
         { src: './images/2025-05-10.jpg', thumb: './images/2025-05-10_thumb.jpg', name: '巴尔德纳斯雷亚尔斯自然公园的卡斯蒂尔德蒂拉，纳瓦拉，西班牙 (© Eloi_Omella/Getty Images)' },
