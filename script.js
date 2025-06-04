@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-06-04.jpg', thumb: './images/2025-06-04_thumb.jpg', name: '卡拉卢纳海滩, 撒丁岛, 意大利 (© guenterguni/Getty Images)' },
         { src: './images/2025-06-03.jpg', thumb: './images/2025-06-03_thumb.jpg', name: '乌得勒支桥上的自行车，荷兰 (© George Pachantouris/Getty Images)' },
         { src: './images/2025-06-02.jpg', thumb: './images/2025-06-02_thumb.jpg', name: '一只停在紫锥菊上的灰蝶，洛克菲勒州立公园，纽约 (© Marianne A. Campolongo/Alamy)' },
         { src: './images/2025-06-01.jpg', thumb: './images/2025-06-01_thumb.jpg', name: '格朗特尔岛附近的堡礁，法属新喀里多尼亚 (© Karsten Wrobel/Getty Images)' },
