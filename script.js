@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-06-06.jpg', thumb: './images/2025-06-06_thumb.jpg', name: '诺曼底的阿罗芒什莱班 , 法国 (© Horia Merla/Getty Images)' },
         { src: './images/2025-06-05.jpg', thumb: './images/2025-06-05_thumb.jpg', name: '福玛萨瀑布，迪亚曼蒂纳，巴西 (© Pulsar Images/Alamy)' },
         { src: './images/2025-06-04.jpg', thumb: './images/2025-06-04_thumb.jpg', name: '卡拉卢纳海滩, 撒丁岛, 意大利 (© guenterguni/Getty Images)' },
         { src: './images/2025-06-03.jpg', thumb: './images/2025-06-03_thumb.jpg', name: '乌得勒支桥上的自行车，荷兰 (© George Pachantouris/Getty Images)' },
