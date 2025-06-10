@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-06-10.jpg', thumb: './images/2025-06-10_thumb.jpg', name: '大沼泽地国家公园的鸟瞰图，佛罗里达州，美国 (© Robert DelVecchio - OcuDrone/Getty Images)' },
         { src: './images/2025-06-09.jpg', thumb: './images/2025-06-09_thumb.jpg', name: '达尔马提亚的杜布罗夫尼克古城，克罗地亚 (© bluejayphoto/Getty Images)' },
         { src: './images/2025-06-08.jpg', thumb: './images/2025-06-08_thumb.jpg', name: '北海狮, 温哥华岛, 不列颠哥伦比亚省, 加拿大 (© Steve Woods Photography/Getty Images)' },
         { src: './images/2025-06-07.jpg', thumb: './images/2025-06-07_thumb.jpg', name: '松山顶峰, 洛杉矶国家森林公园, 加利福尼亚州, 美国 (© Matthew Kuhns/TANDEM Stills + Motion)' },
