@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-06-14.jpg', thumb: './images/2025-06-14_thumb.jpg', name: '五塔峰，多洛米蒂山脉，科尔蒂纳丹佩佐，贝卢诺省，意大利威尼托大区 (© usabin/Getty Images)' },
         { src: './images/2025-06-13.jpg', thumb: './images/2025-06-13_thumb.jpg', name: '维拉弗兰卡岛，圣米格尔岛，亚速尔群岛，葡萄牙 (© ARoxo/Getty Images)' },
         { src: './images/2025-06-12.jpg', thumb: './images/2025-06-12_thumb.jpg', name: '奇索斯山脉，大弯国家公园，德克萨斯州，美国 (© Dean Fikar/Getty Images)' },
         { src: './images/2025-06-11.jpg', thumb: './images/2025-06-11_thumb.jpg', name: '大红鹳，吕德里茨，纳米比亚 (© Karine Aigner/TANDEM Stills + Motion)' },
