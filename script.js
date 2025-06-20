@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-06-20.jpg', thumb: './images/2025-06-20_thumb.jpg', name: '一只马赛长颈鹿妈妈正在给小长颈鹿梳理毛发, 塞伦盖蒂,坦桑尼亚 (© Alberto Cassani/Getty Images)' },
         { src: './images/2025-06-19.jpg', thumb: './images/2025-06-19_thumb.jpg', name: '圣卡塔琳娜州的海滩, 巴西 (© CaioCarvalhoPhotography/Getty Images)' },
         { src: './images/2025-06-18.jpg', thumb: './images/2025-06-18_thumb.jpg', name: '红花石蒜上的柑橘凤蝶 (© lzh/Getty Images)' },
         { src: './images/2025-06-17.jpg', thumb: './images/2025-06-17_thumb.jpg', name: '坎伯兰岛国家海岸的海滨森林，乔治亚州，美国 (© Chris Moore/TANDEM Stills + Motion)' },
