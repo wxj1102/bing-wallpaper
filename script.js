@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-06-22.jpg', thumb: './images/2025-06-22_thumb.jpg', name: '亚马逊雨林，厄瓜多尔 (© Mark Fox/Getty Images)' },
         { src: './images/2025-06-21.jpg', thumb: './images/2025-06-21_thumb.jpg', name: '雾中莲花，中国佛山 (© huoguangliang/Getty Images)' },
         { src: './images/2025-06-20.jpg', thumb: './images/2025-06-20_thumb.jpg', name: '一只马赛长颈鹿妈妈正在给小长颈鹿梳理毛发, 塞伦盖蒂,坦桑尼亚 (© Alberto Cassani/Getty Images)' },
         { src: './images/2025-06-19.jpg', thumb: './images/2025-06-19_thumb.jpg', name: '圣卡塔琳娜州的海滩, 巴西 (© CaioCarvalhoPhotography/Getty Images)' },
