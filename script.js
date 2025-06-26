@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-06-26.jpg', thumb: './images/2025-06-26_thumb.jpg', name: '马头岩上空的银河, 新南威尔士州, 澳大利亚 (© Philip Thurston/Getty Images)' },
         { src: './images/2025-06-25.jpg', thumb: './images/2025-06-25_thumb.jpg', name: '格拉斯顿伯里托尔上的圣迈克尔塔, 格拉斯顿伯里, 萨默塞特郡, 英格兰 (© Gavin Hellier/Getty Images)' },
         { src: './images/2025-06-24.jpg', thumb: './images/2025-06-24_thumb.jpg', name: '精致拱门, 拱门国家公园, 犹他州, 美国 (© mmac72/Getty Images)' },
         { src: './images/2025-06-23.jpg', thumb: './images/2025-06-23_thumb.jpg', name: '德累斯顿易北河谷, 德国 (© Sean Pavone/Getty Images)' },
