@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-06-30.jpg', thumb: './images/2025-06-30_thumb.jpg', name: '沃尔夫溪陨石坑, 澳大利亚 (© Abstract Aerial Art/Getty Images)' },
         { src: './images/2025-06-29.jpg', thumb: './images/2025-06-29_thumb.jpg', name: 'Pulau Ay蓝色泻湖, 班达群岛, 印度尼西亚 (© fabio lamanna/Alamy Stock Photo)' },
         { src: './images/2025-06-28.jpg', thumb: './images/2025-06-28_thumb.jpg', name: '曼海姆水塔, 德国 (© no limit pictures/Getty Images)' },
         { src: './images/2025-06-27.jpg', thumb: './images/2025-06-27_thumb.jpg', name: 'Knuthöjdsmossen自然保护区, 海勒福什市, 瑞典 (© Sven Halling/DEEPOL/plainpicture)' },
