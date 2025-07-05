@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-07-05.jpg', thumb: './images/2025-07-05_thumb.jpg', name: 'Cize-Bolozon viaduct crossing the Ain gorge, France (© Leonid Andronov/Getty Images)' },
         { src: './images/2025-07-04.jpg', thumb: './images/2025-07-04_thumb.jpg', name: '奥罗塞，撒丁岛，意大利 (© EyeEm Mobile GmbH/Getty Images)' },
         { src: './images/2025-07-03.jpg', thumb: './images/2025-07-03_thumb.jpg', name: '彩虹泉州立公园的彩虹河，佛罗里达州，美国 (© Michel Roggo/Minden Pictures)' },
         { src: './images/2025-07-02.jpg', thumb: './images/2025-07-02_thumb.jpg', name: '被泡尖海葵包围的刺颊海葵鱼，米尔恩湾，巴布亚新几内亚 (© Fred Bavendam/Nature Picture Library)' },
