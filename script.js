@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-07-07.jpg', thumb: './images/2025-07-07_thumb.jpg', name: '潜水捕鱼的北方鲣鸟，设得兰群岛，苏格兰 (© Richard Shucksmith/Minden Pictures)' },
         { src: './images/2025-07-06.jpg', thumb: './images/2025-07-06_thumb.jpg', name: '死亡谷国家公园的梅斯基特平原沙丘，加利福尼亚州，美国 (© Bryan Jolley/TANDEM Stills + Motion)' },
         { src: './images/2025-07-05.jpg', thumb: './images/2025-07-05_thumb.jpg', name: 'Cize-Bolozon viaduct crossing the Ain gorge, France (© Leonid Andronov/Getty Images)' },
         { src: './images/2025-07-04.jpg', thumb: './images/2025-07-04_thumb.jpg', name: '奥罗塞，撒丁岛，意大利 (© EyeEm Mobile GmbH/Getty Images)' },
