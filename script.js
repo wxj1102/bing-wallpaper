@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-07-09.jpg', thumb: './images/2025-07-09_thumb.jpg', name: '宪法火车站，布宜诺斯艾利斯，阿根廷 (© Grafissimo/Getty Images)' },
         { src: './images/2025-07-08.jpg', thumb: './images/2025-07-08_thumb.jpg', name: '塞切达，多洛米蒂山脉的山峰，南蒂罗尔，意大利 (© Kalyakan/Adobe Stock)' },
         { src: './images/2025-07-07.jpg', thumb: './images/2025-07-07_thumb.jpg', name: '潜水捕鱼的北方鲣鸟，设得兰群岛，苏格兰 (© Richard Shucksmith/Minden Pictures)' },
         { src: './images/2025-07-06.jpg', thumb: './images/2025-07-06_thumb.jpg', name: '死亡谷国家公园的梅斯基特平原沙丘，加利福尼亚州，美国 (© Bryan Jolley/TANDEM Stills + Motion)' },
