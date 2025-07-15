@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-07-15.jpg', thumb: './images/2025-07-15_thumb.jpg', name: '英仙座流星雨和一棵古老刺果松，大盆地国家公园，内华达州，美国 (© Wirestock Creators/Shutterstock)' },
         { src: './images/2025-07-14.jpg', thumb: './images/2025-07-14_thumb.jpg', name: '加利西亚海域游弋的幼年大青鲨，西班牙 (© Damocean/Getty Images)' },
         { src: './images/2025-07-13.jpg', thumb: './images/2025-07-13_thumb.jpg', name: '卡尔夫沙马尔斯维克湾玄武岩柱，斯卡吉半岛，冰岛 (© Arterra Picture Library/Alamy Stock Photo)' },
         { src: './images/2025-07-12.jpg', thumb: './images/2025-07-12_thumb.jpg', name: '汤氏瞪羚母亲和小鹿，马赛马拉，肯尼亚 (© Gallo Images/DanitaDelimont.com)' },
