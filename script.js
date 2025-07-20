@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-07-20.jpg', thumb: './images/2025-07-20_thumb.jpg', name: '望远镜下的月球表面照片 (© Sergey Kuznetsov/Getty Images)' },
         { src: './images/2025-07-19.jpg', thumb: './images/2025-07-19_thumb.jpg', name: '幽鹤国家公园的伯吉斯山和翡翠湖, 不列颠哥伦比亚省, 加拿大 (© Feng Wei Photography/Getty Images)' },
         { src: './images/2025-07-18.jpg', thumb: './images/2025-07-18_thumb.jpg', name: '塞里雅兰瀑布日落美景，冰岛 (© Tom Mackie/AWL/plainpicture)' },
         { src: './images/2025-07-17.jpg', thumb: './images/2025-07-17_thumb.jpg', name: '瓦朗索勒高原的薰衣草田，法国 (© zpagistock/Getty Images)' },
