@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-07-24.jpg', thumb: './images/2025-07-24_thumb.jpg', name: '栖息在树枝上的灰燕鵙家族 (© Captain Skyhigh/Getty Images)' },
         { src: './images/2025-07-23.jpg', thumb: './images/2025-07-23_thumb.jpg', name: '梵蒂冈城与圣彼得大教堂，罗马，意大利 (© RudyBalasko/Getty Images)' },
         { src: './images/2025-07-22.jpg', thumb: './images/2025-07-22_thumb.jpg', name: '夏季的赛里木湖，博尔塔拉蒙古自治州博乐县, 中国新疆维吾尔自治区 (© Feng Wei Photography/Getty Images)' },
         { src: './images/2025-07-21.jpg', thumb: './images/2025-07-21_thumb.jpg', name: '浅海中的鹿角珊瑚 (© blue-sea.cz/Shutterstock)' },
