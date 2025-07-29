@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-07-29.jpg', thumb: './images/2025-07-29_thumb.jpg', name: '雌性孟加拉虎，坎哈国家公园，印度 (© Axel Gomille/Nature Picture Library)' },
         { src: './images/2025-07-28.jpg', thumb: './images/2025-07-28_thumb.jpg', name: '蒙古草原上的蒙古包 (© Michel Arnault/Shutterstock)' },
         { src: './images/2025-07-27.jpg', thumb: './images/2025-07-27_thumb.jpg', name: '黑鳍梭鱼群，鲨鱼礁，拉斯穆罕默德国家公园，西奈半岛，埃及 (© Alex Mustard/Nature Picture Library)' },
         { src: './images/2025-07-26.jpg', thumb: './images/2025-07-26_thumb.jpg', name: '黄昏时的红树林，瓦拉基里海滩，松巴岛，印度尼西亚 (© Boonchet Ch./Getty Images)' },
