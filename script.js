@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-08-05.jpg', thumb: './images/2025-08-05_thumb.jpg', name: '拉霍亚的潮汐池‌, 加利福尼亚州, 美国 (© Andrew Shoemaker/DanitaDelimont.com)' },
         { src: './images/2025-08-04.jpg', thumb: './images/2025-08-04_thumb.jpg', name: '巢中的乌林鸮, 芬兰 (© imageBROKER.com/Alamy Stock Photo)' },
         { src: './images/2025-08-03.jpg', thumb: './images/2025-08-03_thumb.jpg', name: '夏天田野里盛开的向日葵 (© Arsgera/Shutterstock)' },
         { src: './images/2025-08-02.jpg', thumb: './images/2025-08-02_thumb.jpg', name: '圆顶礁国家公园弗鲁塔附近的岩画, 犹他州, 美国 (© Nicolas VINCENT/Adobe Stock)' },
