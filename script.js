@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-08-13.jpg', thumb: './images/2025-08-13_thumb.jpg', name: '一名男子从摩押附近的科罗纳拱门索降, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)' },
         { src: './images/2025-08-12.jpg', thumb: './images/2025-08-12_thumb.jpg', name: '非洲象群, 安博塞利国家公园, 肯尼亚 (© Chase Dekker/Minden Pictures)' },
         { src: './images/2025-08-11.jpg', thumb: './images/2025-08-11_thumb.jpg', name: '圣玛格达莱娜, 多洛米蒂山, 意大利 (© Sakrapee Nopparat/Getty Images)' },
         { src: './images/2025-08-10.jpg', thumb: './images/2025-08-10_thumb.jpg', name: '马赛马拉国家保护区的雌狮,肯尼亚 (© Tandem Stock/Adobe Stock)' },
