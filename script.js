@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-08-17.jpg', thumb: './images/2025-08-17_thumb.jpg', name: '灵维格灯塔，维泽桑讷，丹麦 (© Caroline Brundle Bugge/Getty Images)' },
         { src: './images/2025-08-16.jpg', thumb: './images/2025-08-16_thumb.jpg', name: '色彩斑斓的蜂巢, 意大利 (© Roberto Caucino/Shutterstock)' },
         { src: './images/2025-08-15.jpg', thumb: './images/2025-08-15_thumb.jpg', name: '斑点鹞鲼，圣克里斯托瓦尔岛‌，‌加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Minden Pictures)' },
         { src: './images/2025-08-14.jpg', thumb: './images/2025-08-14_thumb.jpg', name: '皮兹奈尔山缆车站, 格劳宾登州, 瑞士 (© Roberto Moiola/Alamy)' },
