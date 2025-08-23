@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-08-23.jpg', thumb: './images/2025-08-23_thumb.jpg', name: '秋季九寨沟国家公园里的诺日朗瀑布, 四川省, 中国 (© tawatchaiprakobkit/Getty images)' },
         { src: './images/2025-08-22.jpg', thumb: './images/2025-08-22_thumb.jpg', name: '帕卢斯连绵起伏的丘陵，华盛顿州，美国 (© svetlana57/Getty Images)' },
         { src: './images/2025-08-21.jpg', thumb: './images/2025-08-21_thumb.jpg', name: '穗䳭和盛开的帚石楠，峰区国家公园，英格兰 (© Ben Hall/Nature Picture Library)' },
         { src: './images/2025-08-20.jpg', thumb: './images/2025-08-20_thumb.jpg', name: '博尼法乔城堡，科西嘉岛南部，法国 (© Marc Dozier/Getty Images)' },
