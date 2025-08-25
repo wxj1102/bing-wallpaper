@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-08-25.jpg', thumb: './images/2025-08-25_thumb.jpg', name: '方解石温泉区和黄石河，黄石国家公园，怀俄明州，美国 (© Rebecca L. Latson/Getty Images)' },
         { src: './images/2025-08-24.jpg', thumb: './images/2025-08-24_thumb.jpg', name: '欧洲黇鹿‌，英格兰 (© Enrique Aguirre Aves/Getty Images)' },
         { src: './images/2025-08-23.jpg', thumb: './images/2025-08-23_thumb.jpg', name: '秋季九寨沟国家公园里的诺日朗瀑布, 四川省, 中国 (© tawatchaiprakobkit/Getty images)' },
         { src: './images/2025-08-22.jpg', thumb: './images/2025-08-22_thumb.jpg', name: '帕卢斯连绵起伏的丘陵，华盛顿州，美国 (© svetlana57/Getty Images)' },
