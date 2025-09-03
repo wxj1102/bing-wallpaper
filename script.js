@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-09-03.jpg', thumb: './images/2025-09-03_thumb.jpg', name: '边界水域独木舟区荒野区, 明尼苏达州, 美国 (© s.tomas/Shutterstock)' },
         { src: './images/2025-09-02.jpg', thumb: './images/2025-09-02_thumb.jpg', name: '骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚 (© Inge Johnsson/Alamy Stock Photo)' },
         { src: './images/2025-09-01.jpg', thumb: './images/2025-09-01_thumb.jpg', name: '凯撒施图尔，巴登-符腾堡，德国 (© EyeEM Mobile GmbH/Getty Images)' },
         { src: './images/2025-08-31.jpg', thumb: './images/2025-08-31_thumb.jpg', name: '杰灵的斯科茨布拉夫国家纪念碑‌, 内布拉斯加州,美国 (© Hawk Buckman/Getty Images)' },
