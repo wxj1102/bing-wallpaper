@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-09-05.jpg', thumb: './images/2025-09-05_thumb.jpg', name: '太平洋公园，圣莫妮卡州立海滩，加利福尼亚州，美国 (© EXTREME-PHOTOGRAPHER/Getty Images)' },
         { src: './images/2025-09-04.jpg', thumb: './images/2025-09-04_thumb.jpg', name: '灰熊摔跤, 卡特迈国家公园及自然保护区, 阿拉斯加, 美国 (© Cavan Images/Adobe Stock)' },
         { src: './images/2025-09-03.jpg', thumb: './images/2025-09-03_thumb.jpg', name: '边界水域独木舟区荒野区, 明尼苏达州, 美国 (© s.tomas/Shutterstock)' },
         { src: './images/2025-09-02.jpg', thumb: './images/2025-09-02_thumb.jpg', name: '骆驼刺树, 死亡谷, 纳米布-诺克卢福国家公园, 纳米比亚 (© Inge Johnsson/Alamy Stock Photo)' },
