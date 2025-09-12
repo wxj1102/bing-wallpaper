@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-09-12.jpg', thumb: './images/2025-09-12_thumb.jpg', name: '红海中的飞旋海豚群, 阿拉姆港, 埃及 (© Franco Banfi/Nature Picture Library)' },
         { src: './images/2025-09-11.jpg', thumb: './images/2025-09-11_thumb.jpg', name: '蒙弗拉圭国家公园塔霍河畔的猎鹰岩，西班牙 (© Daniel Viñé Garcia/Getty Images)' },
         { src: './images/2025-09-10.jpg', thumb: './images/2025-09-10_thumb.jpg', name: '干草捆，北约克郡，英格兰 (© Nick Brundle Photography/Getty Images)' },
         { src: './images/2025-09-09.jpg', thumb: './images/2025-09-09_thumb.jpg', name: '一只雌性欧亚红松鼠正在搬运苔藓，瑞士 (© Jean-Luc and Francoise Ziegler/Minden Pictures)' },
