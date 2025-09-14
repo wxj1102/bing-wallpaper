@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-09-14.jpg', thumb: './images/2025-09-14_thumb.jpg', name: '奥林匹克国家公园的瀑布, 华盛顿, 美国 (© Chris Moore/TANDEM Stills + Motion)' },
         { src: './images/2025-09-13.jpg', thumb: './images/2025-09-13_thumb.jpg', name: '烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国 (© Enrique Aguirre Aves/Getty Images)' },
         { src: './images/2025-09-12.jpg', thumb: './images/2025-09-12_thumb.jpg', name: '红海中的飞旋海豚群, 阿拉姆港, 埃及 (© Franco Banfi/Nature Picture Library)' },
         { src: './images/2025-09-11.jpg', thumb: './images/2025-09-11_thumb.jpg', name: '蒙弗拉圭国家公园塔霍河畔的猎鹰岩，西班牙 (© Daniel Viñé Garcia/Getty Images)' },
