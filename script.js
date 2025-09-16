@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-09-16.jpg', thumb: './images/2025-09-16_thumb.jpg', name: '从地球上空225英里处俯瞰墨西哥湾沿岸各州的夜间景象 (© Stocktrek Images/Getty Images)' },
         { src: './images/2025-09-15.jpg', thumb: './images/2025-09-15_thumb.jpg', name: '黑翅长脚鹬, 法国 (© Antonio Sementa/500px/Getty Images)' },
         { src: './images/2025-09-14.jpg', thumb: './images/2025-09-14_thumb.jpg', name: '奥林匹克国家公园的瀑布, 华盛顿, 美国 (© Chris Moore/TANDEM Stills + Motion)' },
         { src: './images/2025-09-13.jpg', thumb: './images/2025-09-13_thumb.jpg', name: '烟囱岩, 雷斯岬国家海岸, 加利福尼亚州, 美国 (© Enrique Aguirre Aves/Getty Images)' },
