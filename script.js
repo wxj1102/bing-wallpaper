@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-09-19.jpg', thumb: './images/2025-09-19_thumb.jpg', name: '千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)' },
         { src: './images/2025-09-18.jpg', thumb: './images/2025-09-18_thumb.jpg', name: '邓金码头的蛇形楼梯, 凯里郡, 爱尔兰 (© Hugh O'Connor/Getty Images)' },
         { src: './images/2025-09-17.jpg', thumb: './images/2025-09-17_thumb.jpg', name: '迪纳利国家公园中的一头年轻雄性驼鹿, 阿拉斯加, 美国 (© Grant Ordelheide/TANDEM Stills + Motion)' },
         { src: './images/2025-09-16.jpg', thumb: './images/2025-09-16_thumb.jpg', name: '从地球上空225英里处俯瞰墨西哥湾沿岸各州的夜间景象 (© Stocktrek Images/Getty Images)' },
