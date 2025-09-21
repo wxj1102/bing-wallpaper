@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-09-21.jpg', thumb: './images/2025-09-21_thumb.jpg', name: '海獭，威廉王子湾，阿拉斯加州，美国 (© Gerald Corsi/Getty Images)' },
         { src: './images/2025-09-20.jpg', thumb: './images/2025-09-20_thumb.jpg', name: '慕尼黑啤酒节上的旋转木马，慕尼黑，巴伐利亚，德国 (© LOOK-foto/Alamy)' },
         { src: './images/2025-09-19.jpg', thumb: './images/2025-09-19_thumb.jpg', name: '千岛群岛地区，圣劳伦斯河，美加边境 (© benedek/Getty Images)' },
         { src: './images/2025-09-18.jpg', thumb: './images/2025-09-18_thumb.jpg', name: '邓金码头的蛇形楼梯, 凯里郡, 爱尔兰 (© Hugh O'Connor/Getty Images)' },
