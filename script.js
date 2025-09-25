@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-09-25.jpg', thumb: './images/2025-09-25_thumb.jpg', name: '奇陶尔加尔堡, 拉贾斯坦邦, 印度 (© chetansoni/Shutterstock)' },
         { src: './images/2025-09-24.jpg', thumb: './images/2025-09-24_thumb.jpg', name: '魔鬼塔国家纪念碑, 怀俄明州，美国 (© Laura Hedien/Getty Images)' },
         { src: './images/2025-09-23.jpg', thumb: './images/2025-09-23_thumb.jpg', name: '航拍中国江苏省常州翠竹公园 (© Xu Changyu/Getty images)' },
         { src: './images/2025-09-22.jpg', thumb: './images/2025-09-22_thumb.jpg', name: '秋日的白杨树，鱼湖国家森林，犹他州，美国 (© Danita Delimont/Getty Images)' },
