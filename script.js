@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-09-30.jpg', thumb: './images/2025-09-30_thumb.jpg', name: '桉树上的考拉, 大奥特维国家公园, 澳大利亚 (© Jamie Lamb - elusive-images.co.uk/Getty Images)' },
         { src: './images/2025-09-29.jpg', thumb: './images/2025-09-29_thumb.jpg', name: '豪滕镇的彩虹屋, 荷兰 (© George Pachantouris/Getty Images)' },
         { src: './images/2025-09-28.jpg', thumb: './images/2025-09-28_thumb.jpg', name: '托斯卡纳的皮恩扎镇, 意大利 (© zpagistock/Getty Images)' },
         { src: './images/2025-09-27.jpg', thumb: './images/2025-09-27_thumb.jpg', name: '坦克湖 (Tank Lakes), 高山湖泊荒野区, 华盛顿州, 美国 (© Austin Trigg/TANDEM Stills + Motion)' },
