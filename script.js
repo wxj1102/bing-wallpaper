@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-10-04.jpg', thumb: './images/2025-10-04_thumb.jpg', name: '从SpaceX载人龙飞船“奋进号”视角看到的国际空间站主太阳能电池阵列 (© NASA)' },
         { src: './images/2025-10-03.jpg', thumb: './images/2025-10-03_thumb.jpg', name: '布里特尔峡谷里生长的帚石楠花, 斯凯岛, 苏格兰 (© Adam Mowery/TANDEM Stills + Motion)' },
         { src: './images/2025-10-02.jpg', thumb: './images/2025-10-02_thumb.jpg', name: '蛇河上的牛轭湖, 大提顿国家公园, 怀俄明州, 美国 (© DanitaDelimont.com/AWL Images/SuperStock)' },
         { src: './images/2025-10-01.jpg', thumb: './images/2025-10-01_thumb.jpg', name: '克拉克山脉, 内华达山脉, 约塞米蒂国家公园, 加利福尼亚州, 美国 (© Robb Hirsch/TANDEM Stills + Motion)' },
