@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-10-06.jpg', thumb: './images/2025-10-06_thumb.jpg', name: '安顺桥中秋灯展，成都，中国 (© Philippe LEJEANVRE/Getty Images)' },
         { src: './images/2025-10-05.jpg', thumb: './images/2025-10-05_thumb.jpg', name: '中欧森林里的鬼鸮 (© Ondrej Prosicky/Alamy)' },
         { src: './images/2025-10-04.jpg', thumb: './images/2025-10-04_thumb.jpg', name: '从SpaceX载人龙飞船“奋进号”视角看到的国际空间站主太阳能电池阵列 (© NASA)' },
         { src: './images/2025-10-03.jpg', thumb: './images/2025-10-03_thumb.jpg', name: '布里特尔峡谷里生长的帚石楠花, 斯凯岛, 苏格兰 (© Adam Mowery/TANDEM Stills + Motion)' },
