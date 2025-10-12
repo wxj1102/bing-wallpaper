@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-10-12.jpg', thumb: './images/2025-10-12_thumb.jpg', name: '萨拉纳克湖村，阿迪朗达克山脉，纽约州，美国 (© DenisTangneyJr/Getty Images)' },
         { src: './images/2025-10-11.jpg', thumb: './images/2025-10-11_thumb.jpg', name: '林鸳鸯，美国 (© ps50ace/iStock/Getty Images)' },
         { src: './images/2025-10-10.jpg', thumb: './images/2025-10-10_thumb.jpg', name: '莫努里基岛周边的珊瑚礁，玛玛努卡群岛，斐济 (© David Wall/SuperStock)' },
         { src: './images/2025-10-09.jpg', thumb: './images/2025-10-09_thumb.jpg', name: '‌詹姆斯·韦伯太空望远镜观测的创生之柱 (© NASA)' },
