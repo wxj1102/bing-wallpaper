@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-10-16.jpg', thumb: './images/2025-10-16_thumb.jpg', name: '欧亚猞猁，西伯利亚 (© Mario Plechaty Photograph/Shutterstock)' },
         { src: './images/2025-10-15.jpg', thumb: './images/2025-10-15_thumb.jpg', name: '紫蜡蘑，西贝克，华盛顿州，美国 (© Danita Delimont/Shutterstock)' },
         { src: './images/2025-10-14.jpg', thumb: './images/2025-10-14_thumb.jpg', name: '伊亚镇，圣托里尼岛，希腊 (© f9photos/Getty Images)' },
         { src: './images/2025-10-13.jpg', thumb: './images/2025-10-13_thumb.jpg', name: '温巴赫峡谷瀑布，巴伐利亚州，德国 (© EyeEm Mobile GmbH/Getty Images)' },
