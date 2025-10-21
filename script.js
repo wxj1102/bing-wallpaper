@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-10-21.jpg', thumb: './images/2025-10-21_thumb.jpg', name: '哥斯达黎加的厚嘴巨嘴鸟 (© Juan Carlos Vindas/Getty Images)' },
         { src: './images/2025-10-20.jpg', thumb: './images/2025-10-20_thumb.jpg', name: '霍氏树懒，厄瓜多尔 (© Murray Cooper/Minden Pictures)' },
         { src: './images/2025-10-19.jpg', thumb: './images/2025-10-19_thumb.jpg', name: '即将收获的苹果，明尼苏达州，美国 (© Tammi Mild/Getty Images)' },
         { src: './images/2025-10-18.jpg', thumb: './images/2025-10-18_thumb.jpg', name: '西尔布利山的新石器时代遗址，蒂尔斯黑德，威尔特郡，英国 (© dbstockphotoa/Getty Images)' },
