@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-10-27.jpg', thumb: './images/2025-10-27_thumb.jpg', name: '被胡杨树围绕着的湖, 金塔县, 酒泉, 甘肃, 中国 (© Feng Wei Photography/Getty images)' },
         { src: './images/2025-10-26.jpg', thumb: './images/2025-10-26_thumb.jpg', name: '北卡罗来纳州的南瓜农场, 美国 (© Matthew H Irvin/Getty Images)' },
         { src: './images/2025-10-25.jpg', thumb: './images/2025-10-25_thumb.jpg', name: '马蒂莫阿帕沼泽保护区泥炭地鸟瞰图, 芬兰 (© romikatarina/Shutterstock)' },
         { src: './images/2025-10-24.jpg', thumb: './images/2025-10-24_thumb.jpg', name: '玛丽皇后号邮轮的夜景, 长滩, 加利福尼亚州, 美国 (© Kit Leong/Shutterstock)' },
