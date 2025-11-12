@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-11-12.jpg', thumb: './images/2025-11-12_thumb.jpg', name: '斗兽场鸟瞰图，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)' },
         { src: './images/2025-11-11.jpg', thumb: './images/2025-11-11_thumb.jpg', name: '条顿堡森林的伊克斯坦岩石层，德国 (© Michael Sroka/Getty Images)' },
         { src: './images/2025-11-10.jpg', thumb: './images/2025-11-10_thumb.jpg', name: '土拨鼠镇的黑尾土拨鼠，劣地国家公园，南达科他州，美国 (© Greg Vaughn/Getty Images)' },
         { src: './images/2025-11-09.jpg', thumb: './images/2025-11-09_thumb.jpg', name: '礁湖星云中的星际云，由哈勃太空望远镜拍摄 (© ESA/NASA)' },
