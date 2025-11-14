@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-11-14.jpg', thumb: './images/2025-11-14_thumb.jpg', name: '海牛妈妈和幼崽，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)' },
         { src: './images/2025-11-13.jpg', thumb: './images/2025-11-13_thumb.jpg', name: '夜晚的箭袋树与银河，基特曼斯胡普，纳米比亚 (© Wim van den Heever/naturepl.com)' },
         { src: './images/2025-11-12.jpg', thumb: './images/2025-11-12_thumb.jpg', name: '斗兽场鸟瞰图，罗马，意大利 (© Nico De Pasquale Photography/Getty Images)' },
         { src: './images/2025-11-11.jpg', thumb: './images/2025-11-11_thumb.jpg', name: '条顿堡森林的伊克斯坦岩石层，德国 (© Michael Sroka/Getty Images)' },
