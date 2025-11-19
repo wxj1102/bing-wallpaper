@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-11-19.jpg', thumb: './images/2025-11-19_thumb.jpg', name: '匈牙利国会大厦，布达佩斯，匈牙利 (© Alexander Spatari/Getty Images)' },
         { src: './images/2025-11-18.jpg', thumb: './images/2025-11-18_thumb.jpg', name: '雄性棕胁秋沙鸭，俄勒冈州，美国 (© Eric Vogt/TANDEM Stills + Motion)' },
         { src: './images/2025-11-17.jpg', thumb: './images/2025-11-17_thumb.jpg', name: '谢南多厄国家公园的秋色，弗吉尼亚州，美国 (© Michael Ver Sprill/Getty Images)' },
         { src: './images/2025-11-16.jpg', thumb: './images/2025-11-16_thumb.jpg', name: '里昂的一条穿廊，法国 (© TPopova/Getty Images) 法国' },
