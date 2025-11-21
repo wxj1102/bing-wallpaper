@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-11-21.jpg', thumb: './images/2025-11-21_thumb.jpg', name: '罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)' },
         { src: './images/2025-11-20.jpg', thumb: './images/2025-11-20_thumb.jpg', name: '查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西 (© Marcio Dufranc/Getty Images)' },
         { src: './images/2025-11-19.jpg', thumb: './images/2025-11-19_thumb.jpg', name: '匈牙利国会大厦，布达佩斯，匈牙利 (© Alexander Spatari/Getty Images)' },
         { src: './images/2025-11-18.jpg', thumb: './images/2025-11-18_thumb.jpg', name: '雄性棕胁秋沙鸭，俄勒冈州，美国 (© Eric Vogt/TANDEM Stills + Motion)' },
