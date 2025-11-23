@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-11-23.jpg', thumb: './images/2025-11-23_thumb.jpg', name: '马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)' },
         { src: './images/2025-11-22.jpg', thumb: './images/2025-11-22_thumb.jpg', name: '乐山大佛, 四川, 中国 (© www.anotherdayattheoffice.org/Getty Images)' },
         { src: './images/2025-11-21.jpg', thumb: './images/2025-11-21_thumb.jpg', name: '罗伯特·摩西州立公园的港海豹, 长岛, 纽约, 美国 (© Vicki Jauron, Babylon and Beyond Photography/Getty Images)' },
         { src: './images/2025-11-20.jpg', thumb: './images/2025-11-20_thumb.jpg', name: '查帕达迪亚曼蒂纳国家公园，巴伊亚州，巴西 (© Marcio Dufranc/Getty Images)' },
