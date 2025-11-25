@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-11-25.jpg', thumb: './images/2025-11-25_thumb.jpg', name: '罗马的特雷维喷泉, 意大利 (© Nico De Pasquale Photography/Getty Images)' },
         { src: './images/2025-11-24.jpg', thumb: './images/2025-11-24_thumb.jpg', name: '瓜廖尔堡, ‌中央邦, 印度 (© ImagesofIndia/Shutterstock)' },
         { src: './images/2025-11-23.jpg', thumb: './images/2025-11-23_thumb.jpg', name: '马达加斯加菊石化石 (© ThomasLENNE/Shutterstock)' },
         { src: './images/2025-11-22.jpg', thumb: './images/2025-11-22_thumb.jpg', name: '乐山大佛, 四川, 中国 (© www.anotherdayattheoffice.org/Getty Images)' },
