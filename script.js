@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-11-28.jpg', thumb: './images/2025-11-28_thumb.jpg', name: '瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利 (© ClickAlps/Alamy)' },
         { src: './images/2025-11-27.jpg', thumb: './images/2025-11-27_thumb.jpg', name: '伊斯特本码头, 东萨塞克斯郡, 英格兰 (© Tolga_TEZCAN/Getty Images)' },
         { src: './images/2025-11-26.jpg', thumb: './images/2025-11-26_thumb.jpg', name: '特拉蒙塔纳山脉的橄榄园, 马略卡岛, 巴利阿里群岛, 西班牙 (© cinoby/Getty Images)' },
         { src: './images/2025-11-25.jpg', thumb: './images/2025-11-25_thumb.jpg', name: '罗马的特雷维喷泉, 意大利 (© Nico De Pasquale Photography/Getty Images)' },
