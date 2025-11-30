@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-11-30.jpg', thumb: './images/2025-11-30_thumb.jpg', name: '莱比锡圣诞集市, 德国 (© Krzysztof Baranowski/Getty Images)' },
         { src: './images/2025-11-29.jpg', thumb: './images/2025-11-29_thumb.jpg', name: '荷兰梵高国家森林公园的马鹿雄鹿, 荷兰 (© CreativeNature_nl/Getty Images)' },
         { src: './images/2025-11-28.jpg', thumb: './images/2025-11-28_thumb.jpg', name: '瓦尔·布兰德特, 布雷西亚, 伦巴第大区, 意大利 (© ClickAlps/Alamy)' },
         { src: './images/2025-11-27.jpg', thumb: './images/2025-11-27_thumb.jpg', name: '伊斯特本码头, 东萨塞克斯郡, 英格兰 (© Tolga_TEZCAN/Getty Images)' },
