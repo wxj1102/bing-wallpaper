@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-12-06.jpg', thumb: './images/2025-12-06_thumb.jpg', name: '大沼泽地国家公园的蜘蛛网，佛罗里达州，美国 (© Troy Harrison/Getty Images)' },
         { src: './images/2025-12-05.jpg', thumb: './images/2025-12-05_thumb.jpg', name: '科潘的玛雅遗址，洪都拉斯 (© diegograndi/Getty Images)' },
         { src: './images/2025-12-04.jpg', thumb: './images/2025-12-04_thumb.jpg', name: '马赛马拉国家保护区的猎豹, 纳罗克, 肯尼亚 (© Andy Rouse/naturepl.com)' },
         { src: './images/2025-12-03.jpg', thumb: './images/2025-12-03_thumb.jpg', name: '日出时的沙丘鹤, ‌阿帕奇森林国家野生动物保护区, 新墨西哥州, 美国 (© Jack Dykinga/Minden Pictures)' },
