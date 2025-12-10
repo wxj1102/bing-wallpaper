@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-12-10.jpg', thumb: './images/2025-12-10_thumb.jpg', name: '科尔多瓦清真寺大教堂的内部，安达卢西亚，西班牙 (© Elena Zolotova/Getty Images)' },
         { src: './images/2025-12-09.jpg', thumb: './images/2025-12-09_thumb.jpg', name: '原驼，北角，瓦尔德斯半岛, 阿根廷 (© Sylvain Cordier/naturepl.com)' },
         { src: './images/2025-12-08.jpg', thumb: './images/2025-12-08_thumb.jpg', name: '多马索的建筑上的圣诞彩灯，科莫湖，意大利 (© Roberto Moiola/Getty Images)' },
         { src: './images/2025-12-07.jpg', thumb: './images/2025-12-07_thumb.jpg', name: '雪中的故宫，中国北京 (© Ian.CuiYi/Getty Images)' },
