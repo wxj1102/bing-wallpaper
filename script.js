@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-12-16.jpg', thumb: './images/2025-12-16_thumb.jpg', name: '圣诞市场上的手工小矮人 (© Veronika Seppanen/Shutterstock)' },
         { src: './images/2025-12-15.jpg', thumb: './images/2025-12-15_thumb.jpg', name: '斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 荷兰 (© Amith Nag Photography/Getty Images)' },
         { src: './images/2025-12-14.jpg', thumb: './images/2025-12-14_thumb.jpg', name: '簇山雀栖息在松枝上, 马萨诸塞州, 美国 (© Tim Laman/NPL/Minden Pictures)' },
         { src: './images/2025-12-13.jpg', thumb: './images/2025-12-13_thumb.jpg', name: '默塞德河, 优胜美地国家公园, 加利福尼亚, 美国 (© Ron and Patty Thomas/Getty Images)' },
