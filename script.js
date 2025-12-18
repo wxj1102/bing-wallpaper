@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-12-18.jpg', thumb: './images/2025-12-18_thumb.jpg', name: '太阳神庙，圆顶礁国家公园, 犹他州, 美国 (© Austin Cronnelly/TANDEM Stills + Motion)' },
         { src: './images/2025-12-17.jpg', thumb: './images/2025-12-17_thumb.jpg', name: '在诺森伯兰郡的欧亚红松鼠, 英格兰 (© Michael_Conrad/Getty Images)' },
         { src: './images/2025-12-16.jpg', thumb: './images/2025-12-16_thumb.jpg', name: '圣诞市场上的手工小矮人 (© Veronika Seppanen/Shutterstock)' },
         { src: './images/2025-12-15.jpg', thumb: './images/2025-12-15_thumb.jpg', name: '斯皮格尔运河上的灯光装饰, 阿姆斯特丹, 荷兰 (© Amith Nag Photography/Getty Images)' },
