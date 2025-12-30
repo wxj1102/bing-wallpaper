@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2025-12-30.jpg', thumb: './images/2025-12-30_thumb.jpg', name: '晨光透过结霜的树木洒下，瑞典 (© Schon/Getty Images)' },
         { src: './images/2025-12-29.jpg', thumb: './images/2025-12-29_thumb.jpg', name: '阿尼遗址的圣格雷戈里教堂，卡尔斯省，土耳其 (© Kenan Talas/Getty Images)' },
         { src: './images/2025-12-28.jpg', thumb: './images/2025-12-28_thumb.jpg', name: '马达加斯加的黑白环尾狐猴 (© Cyrielle Beaubois/Getty Images)' },
         { src: './images/2025-12-27.jpg', thumb: './images/2025-12-27_thumb.jpg', name: '苏必利尔湖沿岸的冰层，大马雷，明尼苏达州，美国 (© wanderluster/Getty Images)' },
