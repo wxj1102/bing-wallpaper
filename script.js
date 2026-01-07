@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-01-07.jpg', thumb: './images/2026-01-07_thumb.jpg', name: '拱门国家公园的北窗框景中的炮塔拱门, 犹他州, 美国 (© Jim Patterson/TANDEM Stills + Motion)' },
         { src: './images/2026-01-06.jpg', thumb: './images/2026-01-06_thumb.jpg', name: '努克, 格陵兰 (© nevereverro/Getty Images)' },
         { src: './images/2026-01-05.jpg', thumb: './images/2026-01-05_thumb.jpg', name: '一群高角羚, 隆多洛齐野生动物保护区, 南非 (© Mint Images/Getty Images)' },
         { src: './images/2026-01-04.jpg', thumb: './images/2026-01-04_thumb.jpg', name: '国王山, 楚加奇山脉, 阿拉斯加, 美国 (© Chris Moore - Exploring Light Photography/TANDEM Stills + Motion)' },
