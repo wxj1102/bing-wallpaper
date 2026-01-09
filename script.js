@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-01-09.jpg', thumb: './images/2026-01-09_thumb.jpg', name: '缪尔树林国家保护区的巨型红杉树林, 加利福尼亚州, 美国 (© photo by canderson/Getty Images)' },
         { src: './images/2026-01-08.jpg', thumb: './images/2026-01-08_thumb.jpg', name: '椋鸟群在布莱顿西码头废墟上空盘旋, 英格兰 (© Philip Reeve/Photodisc/Getty Images)' },
         { src: './images/2026-01-07.jpg', thumb: './images/2026-01-07_thumb.jpg', name: '拱门国家公园的北窗框景中的炮塔拱门, 犹他州, 美国 (© Jim Patterson/TANDEM Stills + Motion)' },
         { src: './images/2026-01-06.jpg', thumb: './images/2026-01-06_thumb.jpg', name: '努克, 格陵兰 (© nevereverro/Getty Images)' },
