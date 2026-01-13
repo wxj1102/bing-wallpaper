@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-01-13.jpg', thumb: './images/2026-01-13_thumb.jpg', name: '克卢伊德谷, 威尔士 (© Valerie Blencowe/Getty Images)' },
         { src: './images/2026-01-12.jpg', thumb: './images/2026-01-12_thumb.jpg', name: '欧亚水獭和幼崽, 爱沙尼亚 (© Sven Zacek/naturepl.com)' },
         { src: './images/2026-01-11.jpg', thumb: './images/2026-01-11_thumb.jpg', name: '舍夫沙万的蓝色墙壁, 摩洛哥 (© AnetteAndersen/Getty Images)' },
         { src: './images/2026-01-10.jpg', thumb: './images/2026-01-10_thumb.jpg', name: '日出时分，马特洪峰的倒影映照在斯特利湖中, 采尔马特, 瑞士 (© Andy Trowbridge/naturepl.com)' },
