@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-01-25.jpg', thumb: './images/2026-01-25_thumb.jpg', name: '伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰 (© Alister Firth/Alamy)' },
         { src: './images/2026-01-24.jpg', thumb: './images/2026-01-24_thumb.jpg', name: '阿尔卑斯山脉的安德马特小镇，瑞士 (© Xantana/Getty Images)' },
         { src: './images/2026-01-23.jpg', thumb: './images/2026-01-23_thumb.jpg', name: '绵羊在雪地里吃草，冰岛 (© Christophe Lehenaff/Getty Images)' },
         { src: './images/2026-01-22.jpg', thumb: './images/2026-01-22_thumb.jpg', name: '卡罗维瓦利，波西米亚，捷克共和国 (© Henryk Sadura/Getty Images)' },
