@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-01-28.jpg', thumb: './images/2026-01-28_thumb.jpg', name: '旺格努伊国家公园，雷塔鲁克，新西兰 (© Matthew Micah Wright/Getty Images)' },
         { src: './images/2026-01-27.jpg', thumb: './images/2026-01-27_thumb.jpg', name: '卷羽鹈鹕，凯尔基尼湖，希腊 (© Guy Edwardes/naturepl.com)' },
         { src: './images/2026-01-26.jpg', thumb: './images/2026-01-26_thumb.jpg', name: '新天鹅堡，巴伐利亚州，德国 (© www.fredconcha.com @ All Rights Reserved/Getty Images)' },
         { src: './images/2026-01-25.jpg', thumb: './images/2026-01-25_thumb.jpg', name: '伯恩斯国家遗产公园，艾尔，南艾尔郡，苏格兰 (© Alister Firth/Alamy)' },
