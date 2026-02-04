@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-02-04.jpg', thumb: './images/2026-02-04_thumb.jpg', name: '雪中​​的红鸢 (© Carl Mckie/500px/Getty Images)' },
         { src: './images/2026-02-03.jpg', thumb: './images/2026-02-03_thumb.jpg', name: '翡翠湾和范内特岛, 太浩湖, 加利福尼亚州, 美国 (© Bill Stevenson/Cavan Images)' },
         { src: './images/2026-02-02.jpg', thumb: './images/2026-02-02_thumb.jpg', name: '阿尔卑斯山土拨鼠, 霍赫陶恩国家公园, 奥地利 (© Raimund Linke/Getty Images)' },
         { src: './images/2026-02-01.jpg', thumb: './images/2026-02-01_thumb.jpg', name: '奥林达的彩色房子, 巴西 (© Robert Pekar/Alamy)' },
