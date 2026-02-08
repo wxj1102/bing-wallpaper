@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-02-08.jpg', thumb: './images/2026-02-08_thumb.jpg', name: '科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images)' },
         { src: './images/2026-02-07.jpg', thumb: './images/2026-02-07_thumb.jpg', name: '玻利维亚乌尤尼盐湖 (© Abstract Aerial Art/Getty Images)' },
         { src: './images/2026-02-06.jpg', thumb: './images/2026-02-06_thumb.jpg', name: '贾乌山口的拉古塞拉峰, 在科尔蒂纳丹佩佐附近, 意大利 (© Tomasz Podolski/Getty Images)' },
         { src: './images/2026-02-05.jpg', thumb: './images/2026-02-05_thumb.jpg', name: '戈佐岛上的盐田, 马耳他 (© Marius Roman/Getty Images)' },
