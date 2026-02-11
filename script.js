@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-02-11.jpg', thumb: './images/2026-02-11_thumb.jpg', name: '死亡谷国家公园恶水盆地的盐滩, 加利福尼亚州, 美国 (© Jim Patterson/TANDEM Stills + Motion)' },
         { src: './images/2026-02-10.jpg', thumb: './images/2026-02-10_thumb.jpg', name: '埃斯韦德拉岛和埃斯韦德拉内尔岛，伊维萨岛，西班牙 (© L. Apolli/Getty Images)' },
         { src: './images/2026-02-09.jpg', thumb: './images/2026-02-09_thumb.jpg', name: '阿穆尔豹猫，俄罗斯 (© Valeriy Maleev/naturepl.com)' },
         { src: './images/2026-02-08.jpg', thumb: './images/2026-02-08_thumb.jpg', name: '科孚岛的夜晚, 希腊 (© whitewizzard/Getty Images)' },
