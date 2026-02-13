@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-02-13.jpg', thumb: './images/2026-02-13_thumb.jpg', name: '连接老挝和泰国的第三座泰老友谊大桥 (© chaiyut samsuk/Getty Images)' },
         { src: './images/2026-02-12.jpg', thumb: './images/2026-02-12_thumb.jpg', name: '蓝脚鲣鸟，加拉帕戈斯群岛, 厄瓜多尔 (© Karine Aigner/TANDEM Stills + Motion)' },
         { src: './images/2026-02-11.jpg', thumb: './images/2026-02-11_thumb.jpg', name: '死亡谷国家公园恶水盆地的盐滩, 加利福尼亚州, 美国 (© Jim Patterson/TANDEM Stills + Motion)' },
         { src: './images/2026-02-10.jpg', thumb: './images/2026-02-10_thumb.jpg', name: '埃斯韦德拉岛和埃斯韦德拉内尔岛，伊维萨岛，西班牙 (© L. Apolli/Getty Images)' },
