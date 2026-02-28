@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-02-28.jpg', thumb: './images/2026-02-28_thumb.jpg', name: '奥洛乌佩纳瀑布, 莫洛凯岛, 夏威夷, 美国 (© Andrew Aylett/Getty Images)' },
         { src: './images/2026-02-27.jpg', thumb: './images/2026-02-27_thumb.jpg', name: '北极熊幼崽走过浮冰, 北极国家野生动物保护区, 阿拉斯加州, 美国 (© Steven Kazlowski/naturepl.com)' },
         { src: './images/2026-02-26.jpg', thumb: './images/2026-02-26_thumb.jpg', name: '大峡谷和科罗拉多河，亚利桑那州，美国 (© Matt Anderson Photography/Getty Images)' },
         { src: './images/2026-02-25.jpg', thumb: './images/2026-02-25_thumb.jpg', name: '门登霍尔冰川的冰洞，阿拉斯加州，美国 (© Designpics/Adobe Stock)' },
