@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-03-07.jpg', thumb: './images/2026-03-07_thumb.jpg', name: '布罗肯峰的日出, 哈尔茨国家公园, 德国 (© imageBROKER/AVTG/Getty Images)' },
         { src: './images/2026-03-06.jpg', thumb: './images/2026-03-06_thumb.jpg', name: '波浪住宅楼, 瓦埃勒, 丹麦 (© Frank Bach/Alamy)' },
         { src: './images/2026-03-05.jpg', thumb: './images/2026-03-05_thumb.jpg', name: '格雷梅的傍晚, 卡帕多西亚, 土耳其 (© ONNAJA/Getty Images)' },
         { src: './images/2026-03-04.jpg', thumb: './images/2026-03-04_thumb.jpg', name: '紫番红花, 里拉七湖, 保加利亚 (© Maya Karkalicheva/Getty Images)' },
