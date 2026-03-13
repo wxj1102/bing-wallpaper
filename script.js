@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-03-13.jpg', thumb: './images/2026-03-13_thumb.jpg', name: '邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)' },
         { src: './images/2026-03-12.jpg', thumb: './images/2026-03-12_thumb.jpg', name: '幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔 (© Andy Rouse/naturepl.com)' },
         { src: './images/2026-03-11.jpg', thumb: './images/2026-03-11_thumb.jpg', name: '盛开的桃树, 谢萨, 穆尔西亚, 西班牙 (© Juan Maria Coy Vergara/Getty Images)' },
         { src: './images/2026-03-10.jpg', thumb: './images/2026-03-10_thumb.jpg', name: '赫韦拉韦利尔的布拉赫维尔地热池, 冰岛 (© Juan Maria Coy Vergara/Getty Images)' },
