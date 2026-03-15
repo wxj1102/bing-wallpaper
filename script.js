@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-03-15.jpg', thumb: './images/2026-03-15_thumb.jpg', name: '太平洋沿岸国家公园保护区，温哥华岛，加拿大 (© EmilyNorton/Getty Images)' },
         { src: './images/2026-03-14.jpg', thumb: './images/2026-03-14_thumb.jpg', name: '兰扬石门，位于英格兰康沃尔郡的一座兰扬新石器时代石棚墓，英国 (© Helen Hotson/Alamy)' },
         { src: './images/2026-03-13.jpg', thumb: './images/2026-03-13_thumb.jpg', name: '邦港圣母教堂拱顶，莱萨布勒多洛讷，法国 (© Helmut Meyer zur Capellen/Alamy)' },
         { src: './images/2026-03-12.jpg', thumb: './images/2026-03-12_thumb.jpg', name: '幼年日鳽在巢穴附近展示求偶行为, 厄瓜多尔 (© Andy Rouse/naturepl.com)' },
