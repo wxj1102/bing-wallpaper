@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-03-22.jpg', thumb: './images/2026-03-22_thumb.jpg', name: '坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)' },
         { src: './images/2026-03-21.jpg', thumb: './images/2026-03-21_thumb.jpg', name: '莱泰亚森林，多瑙河三角洲，罗马尼亚 (© Wild Wonders of Europe/Widstrand/Nature Picture Library)' },
         { src: './images/2026-03-20.jpg', thumb: './images/2026-03-20_thumb.jpg', name: '春日樱花，上海，中国 (© junyyeung/Getty Images)' },
         { src: './images/2026-03-19.jpg', thumb: './images/2026-03-19_thumb.jpg', name: '澳洲针鼹，阿德莱德山，澳大利亚 (© Etienne Littlefair/naturepl.com)' },
