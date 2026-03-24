@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-03-24.jpg', thumb: './images/2026-03-24_thumb.jpg', name: '东湖樱花园的樱花，武汉，中国 (© Zhang Qiao/VCG/Getty Images)' },
         { src: './images/2026-03-23.jpg', thumb: './images/2026-03-23_thumb.jpg', name: '坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)' },
         { src: './images/2026-03-22.jpg', thumb: './images/2026-03-22_thumb.jpg', name: '坦噶尼喀湖，非洲 (© BEST-BACKGROUNDS/NASA/Shutterstock)' },
         { src: './images/2026-03-21.jpg', thumb: './images/2026-03-21_thumb.jpg', name: '莱泰亚森林，多瑙河三角洲，罗马尼亚 (© Wild Wonders of Europe/Widstrand/Nature Picture Library)' },
