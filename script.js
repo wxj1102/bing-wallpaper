@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-03-27.jpg', thumb: './images/2026-03-27_thumb.jpg', name: '纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)' },
         { src: './images/2026-03-26.jpg', thumb: './images/2026-03-26_thumb.jpg', name: '洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)' },
         { src: './images/2026-03-25.jpg', thumb: './images/2026-03-25_thumb.jpg', name: '淡水泉中的幼年海牛，水晶河，佛罗里达州，美国 (© Gregory Sweeney/Getty Images)' },
         { src: './images/2026-03-24.jpg', thumb: './images/2026-03-24_thumb.jpg', name: '东湖樱花园的樱花，武汉，中国 (© Zhang Qiao/VCG/Getty Images)' },
