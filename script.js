@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-03-29.jpg', thumb: './images/2026-03-29_thumb.jpg', name: '佩吉角灯塔, 大西洋海岸, 新斯科舍省, 加拿大 (© Prashanth Bala/Shutterstock)' },
         { src: './images/2026-03-28.jpg', thumb: './images/2026-03-28_thumb.jpg', name: '非洲水牛, 恩戈罗恩戈罗火山口, 坦桑尼亚 (© jesuss8/500px/Getty Images)' },
         { src: './images/2026-03-27.jpg', thumb: './images/2026-03-27_thumb.jpg', name: '纽约市的无线电城音乐厅, 美国 (© Clarence Holmes Photography/Alamy)' },
         { src: './images/2026-03-26.jpg', thumb: './images/2026-03-26_thumb.jpg', name: '洛根溪吊桥，西海岸步道，加拿大 (© Tandem Stock/Adobe Stock)' },
