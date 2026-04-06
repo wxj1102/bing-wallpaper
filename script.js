@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-04-06.jpg', thumb: './images/2026-04-06_thumb.jpg', name: '樱花盛开的弘前城，弘前，日本 (© Glenn Waters/Getty Images)' },
         { src: './images/2026-04-05.jpg', thumb: './images/2026-04-05_thumb.jpg', name: '春天的雪钟花 (© klagyivik/Getty Images)' },
         { src: './images/2026-04-04.jpg', thumb: './images/2026-04-04_thumb.jpg', name: '求偶展示场上对峙的雄性黑琴鸡，爱沙尼亚 (© Sven Zacek/Nature Picture Library)' },
         { src: './images/2026-04-03.jpg', thumb: './images/2026-04-03_thumb.jpg', name: '阿姆布鲁大桥，阿姆斯特丹，荷兰 (© Alexander Spatari/Getty Images)' },
