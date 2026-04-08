@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-04-08.jpg', thumb: './images/2026-04-08_thumb.jpg', name: '西雅图，华盛顿州，美国 (© Jim Patterson/Tandem Stills + Motion)' },
         { src: './images/2026-04-07.jpg', thumb: './images/2026-04-07_thumb.jpg', name: '河狸，德国 (© Andyworks/Getty Images)' },
         { src: './images/2026-04-06.jpg', thumb: './images/2026-04-06_thumb.jpg', name: '樱花盛开的弘前城，弘前，日本 (© Glenn Waters/Getty Images)' },
         { src: './images/2026-04-05.jpg', thumb: './images/2026-04-05_thumb.jpg', name: '春天的雪钟花 (© klagyivik/Getty Images)' },
