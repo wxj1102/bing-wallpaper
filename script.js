@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-04-15.jpg', thumb: './images/2026-04-15_thumb.jpg', name: '光之采石场的文森特·梵高展览, 莱博德普罗旺斯, 法国 (© Patrick Aventurier/Getty Images)' },
         { src: './images/2026-04-14.jpg', thumb: './images/2026-04-14_thumb.jpg', name: '海葵中的普通小丑鱼, 拉贾安帕特群岛, 印度尼西亚 (© Magnus Lundgren/Nature Picture Library)' },
         { src: './images/2026-04-13.jpg', thumb: './images/2026-04-13_thumb.jpg', name: '安扎-博雷戈沙漠州立公园上空的银河, 加利福尼亚州, 美国 (© Kevin Key/Slworking)/Getty Images)' },
         { src: './images/2026-04-12.jpg', thumb: './images/2026-04-12_thumb.jpg', name: '城市灯光在下方划过, 拍摄于国际空间站 (© NASA)' },
