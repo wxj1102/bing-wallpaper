@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-04-20.jpg', thumb: './images/2026-04-20_thumb.jpg', name: '夕阳下的峡谷地国家公园，莫阿布，犹他州，美国 (© Jason Hatfield/Tandem Stills + Motion)' },
         { src: './images/2026-04-19.jpg', thumb: './images/2026-04-19_thumb.jpg', name: '镜面海滩，塞古罗港，巴伊亚州，巴西 (© Marcelo Nacinovic/Getty Images)' },
         { src: './images/2026-04-18.jpg', thumb: './images/2026-04-18_thumb.jpg', name: '摩艾石像采石场，拉诺拉拉库，复活节岛，智利 (© Gavin Hellier/Alamy)' },
         { src: './images/2026-04-17.jpg', thumb: './images/2026-04-17_thumb.jpg', name: '灰头狐蝠母亲携幼崽，雅拉湾国家公园，澳大利亚 (© Doug Gimesy/Nature Picture Library)' },
