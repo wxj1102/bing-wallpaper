@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-04-23.jpg', thumb: './images/2026-04-23_thumb.jpg', name: '安妮·海瑟薇的小屋与花园，埃文河畔斯特拉特，英格兰 (© David Steele/Shutterstock)' },
         { src: './images/2026-04-22.jpg', thumb: './images/2026-04-22_thumb.jpg', name: '阿拉姆-佩德亚自然保护区，塔尔图县，爱沙尼亚 (© Sven Zacek/Nature Picture Library)' },
         { src: './images/2026-04-21.jpg', thumb: './images/2026-04-21_thumb.jpg', name: '西欧刺猬，法国 (© Klein & Hubert/Nature Picture Library)' },
         { src: './images/2026-04-20.jpg', thumb: './images/2026-04-20_thumb.jpg', name: '夕阳下的峡谷地国家公园，莫阿布，犹他州，美国 (© Jason Hatfield/Tandem Stills + Motion)' },
