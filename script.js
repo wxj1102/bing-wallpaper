@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-04-30.jpg', thumb: './images/2026-04-30_thumb.jpg', name: '葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰 (© Martin Ruegner/Getty Images)' },
         { src: './images/2026-04-29.jpg', thumb: './images/2026-04-29_thumb.jpg', name: '塔霍河岸边的贝伦塔, 里斯本, 葡萄牙 (© f9photos/Getty Images)' },
         { src: './images/2026-04-28.jpg', thumb: './images/2026-04-28_thumb.jpg', name: '眼镜熊在树上休息, 厄瓜多尔 (© Andy Rouse/Nature Picture Library)' },
         { src: './images/2026-04-27.jpg', thumb: './images/2026-04-27_thumb.jpg', name: '维托里奥·埃马努埃莱二世拱廊的玻璃穹顶, 米兰, 意大利 (© PhillipMinnis/Getty Images)' },
