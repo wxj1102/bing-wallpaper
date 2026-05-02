@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-05-02.jpg', thumb: './images/2026-05-02_thumb.jpg', name: '阿尔伯塔省贾斯珀国家公园中的小型湖泊与湿地，加拿大 (© Don White/Getty Images)' },
         { src: './images/2026-05-01.jpg', thumb: './images/2026-05-01_thumb.jpg', name: '中国的长城 (© aphotostory/Getty Images)' },
         { src: './images/2026-04-30.jpg', thumb: './images/2026-04-30_thumb.jpg', name: '葡萄风信子和郁金香, 库肯霍夫花园, 利塞, 荷兰 (© Martin Ruegner/Getty Images)' },
         { src: './images/2026-04-29.jpg', thumb: './images/2026-04-29_thumb.jpg', name: '塔霍河岸边的贝伦塔, 里斯本, 葡萄牙 (© f9photos/Getty Images)' },
