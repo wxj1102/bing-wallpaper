@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-05-07.jpg', thumb: './images/2026-05-07_thumb.jpg', name: '科法国家野生动物保护区，亚利桑那州，美国 (© Denis Tangney Jr/Getty Images)' },
         { src: './images/2026-05-06.jpg', thumb: './images/2026-05-06_thumb.jpg', name: '平原上空的雷暴，保加利亚 (© Revolu7ion93/Getty Images)' },
         { src: './images/2026-05-05.jpg', thumb: './images/2026-05-05_thumb.jpg', name: '莲花与莲花植株 (© real444/Getty Images)' },
         { src: './images/2026-05-04.jpg', thumb: './images/2026-05-04_thumb.jpg', name: '乌莱德·索尔坦克萨尔，塔塔温区，突尼斯南部 (© Dark_Eni/Getty Images Plus)' },
