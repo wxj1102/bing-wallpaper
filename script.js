@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-05-10.jpg', thumb: './images/2026-05-10_thumb.jpg', name: '北极熊妈妈和幼崽在瓦普斯克国家公园玩耍, 马尼托巴省, 加拿大 (© Hao Jiang/Getty Images)' },
         { src: './images/2026-05-09.jpg', thumb: './images/2026-05-09_thumb.jpg', name: '克尔卡国家公园的斯克拉丁斯基布克瀑布, 克罗地亚 (© Amazing Aerial Agency/Adobe Stock)' },
         { src: './images/2026-05-08.jpg', thumb: './images/2026-05-08_thumb.jpg', name: '撒丁岛母驴和幼崽, 法国 (© Klein & Hubert/Nature Picture Library)' },
         { src: './images/2026-05-07.jpg', thumb: './images/2026-05-07_thumb.jpg', name: '科法国家野生动物保护区，亚利桑那州，美国 (© Denis Tangney Jr/Getty Images)' },
