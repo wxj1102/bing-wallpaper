@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-05-13.jpg', thumb: './images/2026-05-13_thumb.jpg', name: '拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国 (© Tim Fitzharris/Minden Pictures)' },
         { src: './images/2026-05-12.jpg', thumb: './images/2026-05-12_thumb.jpg', name: '北极海鹦, 威尔士 (© FLPA/Alamy)' },
         { src: './images/2026-05-11.jpg', thumb: './images/2026-05-11_thumb.jpg', name: '从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)' },
         { src: './images/2026-05-10.jpg', thumb: './images/2026-05-10_thumb.jpg', name: '北极熊妈妈和幼崽在瓦普斯克国家公园玩耍, 马尼托巴省, 加拿大 (© Hao Jiang/Getty Images)' },
