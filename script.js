@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-05-14.jpg', thumb: './images/2026-05-14_thumb.jpg', name: '中世纪古镇皮蒂利亚诺, 托斯卡纳, 意大利 (© bluejayphoto/Getty Images Plus)' },
         { src: './images/2026-05-13.jpg', thumb: './images/2026-05-13_thumb.jpg', name: '拱门与银河, 阿拉巴马山, 内华达山脉, 加利福尼亚州, 美国 (© Tim Fitzharris/Minden Pictures)' },
         { src: './images/2026-05-12.jpg', thumb: './images/2026-05-12_thumb.jpg', name: '北极海鹦, 威尔士 (© FLPA/Alamy)' },
         { src: './images/2026-05-11.jpg', thumb: './images/2026-05-11_thumb.jpg', name: '从上方俯瞰大堡礁, 昆士兰州, 澳大利亚 (© Francesco Riccardo Iacomino/Getty Images)' },
