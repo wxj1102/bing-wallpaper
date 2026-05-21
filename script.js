@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-05-21.jpg', thumb: './images/2026-05-21_thumb.jpg', name: '四川省的茶梯田, 中国 (© lzf/Shutterstock)' },
         { src: './images/2026-05-20.jpg', thumb: './images/2026-05-20_thumb.jpg', name: '熊蜂在授粉, 伍斯特, 英格兰 (© SimonEastwood87/Shutterstock)' },
         { src: './images/2026-05-19.jpg', thumb: './images/2026-05-19_thumb.jpg', name: '福门托尔灯塔, 马略卡, 巴利阿里群岛, 西班牙 (© Allard Schager/Getty Images)' },
         { src: './images/2026-05-18.jpg', thumb: './images/2026-05-18_thumb.jpg', name: '伦敦自然历史博物馆, 英格兰 (© Colm Keating/Tandem Stills + Motion)' },
