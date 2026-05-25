@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-05-25.jpg', thumb: './images/2026-05-25_thumb.jpg', name: '从风之宫殿俯瞰斋浦尔市景，拉贾斯坦邦，印度 (© byheaven/Getty Images)' },
         { src: './images/2026-05-24.jpg', thumb: './images/2026-05-24_thumb.jpg', name: '三峰自然公园，南蒂罗尔，意大利 (© Adisorn Fineday Chutikunakorn/Getty Images)' },
         { src: './images/2026-05-23.jpg', thumb: './images/2026-05-23_thumb.jpg', name: '与蝴蝶在一起的乌龟 (© Patrick Gallet/Getty Images)' },
         { src: './images/2026-05-22.jpg', thumb: './images/2026-05-22_thumb.jpg', name: '埃希环礁，土阿莫土群岛，法属波利尼西亚 (© WaterFrame_dpr/Alamy)' },
