@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-05-30.jpg', thumb: './images/2026-05-30_thumb.jpg', name: '平原斑马幼崽，埃托沙国家公园，纳米比亚 (© Sharon Heald/Nature Picture Library)' },
         { src: './images/2026-05-29.jpg', thumb: './images/2026-05-29_thumb.jpg', name: '珠穆朗玛峰峰顶，萨加玛塔国家公园，尼泊尔 (© fotoVoyager/Getty Images)' },
         { src: './images/2026-05-28.jpg', thumb: './images/2026-05-28_thumb.jpg', name: '华城堡的古城墙，水原，韩国 (© aomam/Getty Images)' },
         { src: './images/2026-05-27.jpg', thumb: './images/2026-05-27_thumb.jpg', name: '海獭，霍默卡奇马克湾，阿拉斯加州，美国 (© roclwyr/Getty Images)' },
