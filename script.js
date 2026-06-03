@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-06-03.jpg', thumb: './images/2026-06-03_thumb.jpg', name: '骑行者，巴德纳斯雷亚莱斯自然公园与生物圈保护区，纳瓦拉，西班牙 (© Artur Debat/Getty Images)' },
         { src: './images/2026-06-02.jpg', thumb: './images/2026-06-02_thumb.jpg', name: '穿越西台吉乃尔湖的公路，青海省，中国 (© Kaicheng Xu/Getty Images)' },
         { src: './images/2026-06-01.jpg', thumb: './images/2026-06-01_thumb.jpg', name: '巴勒莫暮色下的天际线，西西里岛，意大利 (© Sean Pavone/Getty Images)' },
         { src: './images/2026-05-31.jpg', thumb: './images/2026-05-31_thumb.jpg', name: '大沼泽地国家公园航拍景观，佛罗里达州，美国 (© Tetra Images/Getty Images)' },
