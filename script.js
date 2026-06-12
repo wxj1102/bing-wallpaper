@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-06-12.jpg', thumb: './images/2026-06-12_thumb.jpg', name: '黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)' },
         { src: './images/2026-06-11.jpg', thumb: './images/2026-06-11_thumb.jpg', name: '退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙 (© Theo Bosboom/Nature Picture Library)' },
         { src: './images/2026-06-10.jpg', thumb: './images/2026-06-10_thumb.jpg', name: '赫瑙萨波鲁尔火山口, 菲亚拉巴克自然保护区, 兰德曼纳劳加尔, 冰岛 (© Juan Maria Coy Vergara/Getty Images)' },
         { src: './images/2026-06-09.jpg', thumb: './images/2026-06-09_thumb.jpg', name: '韦尔纳扎, 五渔村, 利古里亚, 意大利 (© Kelly Cheng/Getty Images)' },
