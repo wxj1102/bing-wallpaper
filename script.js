@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-06-14.jpg', thumb: './images/2026-06-14_thumb.jpg', name: '绿头鸭 (© Philippe Paternolli/Getty Images)' },
         { src: './images/2026-06-13.jpg', thumb: './images/2026-06-13_thumb.jpg', name: '落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)' },
         { src: './images/2026-06-12.jpg', thumb: './images/2026-06-12_thumb.jpg', name: '黄喉蜂虎，格拉萨莱马山自然公园，加的斯，西班牙 (© Andres M. Dominguez/Nature Picture Library)' },
         { src: './images/2026-06-11.jpg', thumb: './images/2026-06-11_thumb.jpg', name: '退潮时裸露在乌尔萨海滩海岸上的帽贝, 葡萄牙 (© Theo Bosboom/Nature Picture Library)' },
