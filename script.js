@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-06-16.jpg', thumb: './images/2026-06-16_thumb.jpg', name: '七英里海滩附近的玳瑁海龟伴侣，大开曼岛，开曼群岛 (© Alex Mustard/Nature Picture Library)' },
         { src: './images/2026-06-15.jpg', thumb: './images/2026-06-15_thumb.jpg', name: '大烟山国家公园，田纳西州，美国 (© Mint Images/Getty Images)' },
         { src: './images/2026-06-14.jpg', thumb: './images/2026-06-14_thumb.jpg', name: '绿头鸭 (© Philippe Paternolli/Getty Images)' },
         { src: './images/2026-06-13.jpg', thumb: './images/2026-06-13_thumb.jpg', name: '落日，恶地国家公园，南达科他州，美国 (© Troy Harrison/Getty Images)' },
