@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-06-24.jpg', thumb: './images/2026-06-24_thumb.jpg', name: '蝴蝶正在黄花上授粉 (© lzh/Getty Images)' },
         { src: './images/2026-06-23.jpg', thumb: './images/2026-06-23_thumb.jpg', name: '本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)' },
         { src: './images/2026-06-22.jpg', thumb: './images/2026-06-22_thumb.jpg', name: '奎诺尔特雨林, 奥林匹克国家公园, 华盛顿州, 美国 (© Chris Moore/Tandem Stills + Motion)' },
         { src: './images/2026-06-21.jpg', thumb: './images/2026-06-21_thumb.jpg', name: '企鹅爸爸正在检查蛋的情况 (© McDonald Wildlife Photography Inc./Getty Images)' },
