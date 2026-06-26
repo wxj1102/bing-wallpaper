@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-06-26.jpg', thumb: './images/2026-06-26_thumb.jpg', name: '泰晤士河, 伦敦, 英格兰 (© Daniel Lange/Getty Images)' },
         { src: './images/2026-06-25.jpg', thumb: './images/2026-06-25_thumb.jpg', name: '布鲁塞尔大广场上的建筑群, 比利时 (© Vladislav Zolotov/Getty Images Plus)' },
         { src: './images/2026-06-24.jpg', thumb: './images/2026-06-24_thumb.jpg', name: '蝴蝶正在黄花上授粉 (© lzh/Getty Images)' },
         { src: './images/2026-06-23.jpg', thumb: './images/2026-06-23_thumb.jpg', name: '本州岛上的富士山, 日本 (© phutthiseth thongtae/Getty Images)' },
