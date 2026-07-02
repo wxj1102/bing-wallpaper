@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-07-02.jpg', thumb: './images/2026-07-02_thumb.jpg', name: '埃斯纳神庙穹顶天花板, 埃及 (© Nick Brundle Photography/Getty Images)' },
         { src: './images/2026-07-01.jpg', thumb: './images/2026-07-01_thumb.jpg', name: '地牢省立公园, 纽芬兰和拉布拉多省, 加拿大 (© Kaitlyn McLachlan/Getty Images)' },
         { src: './images/2026-06-30.jpg', thumb: './images/2026-06-30_thumb.jpg', name: '马赛马拉国家保护区日落时分的长颈鹿, 肯尼亚 (© danm/Getty Images)' },
         { src: './images/2026-06-29.jpg', thumb: './images/2026-06-29_thumb.jpg', name: '波拉波拉岛及其泻湖, 南太平洋, 法属波利尼西亚 (© Frederick Millett/Shutterstock)' },
