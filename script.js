@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-07-09.jpg', thumb: './images/2026-07-09_thumb.jpg', name: '在沙巴的水稻田，老街，越南 (© Anujak Jaimook/Getty Images)' },
         { src: './images/2026-07-08.jpg', thumb: './images/2026-07-08_thumb.jpg', name: '阿蒂特兰湖的日出，危地马拉 (© shayes17/Getty Images)' },
         { src: './images/2026-07-07.jpg', thumb: './images/2026-07-07_thumb.jpg', name: '板嘴山巨嘴鸟与兰花，厄瓜多尔 (© Murray Cooper/Minden Pictures)' },
         { src: './images/2026-07-06.jpg', thumb: './images/2026-07-06_thumb.jpg', name: '锡拉库萨的日落，西西里岛，意大利 (© Balate Dorin/Getty Images)' },
