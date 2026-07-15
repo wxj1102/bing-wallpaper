@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-07-15.jpg', thumb: './images/2026-07-15_thumb.jpg', name: '玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)' },
         { src: './images/2026-07-14.jpg', thumb: './images/2026-07-14_thumb.jpg', name: '柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)' },
         { src: './images/2026-07-13.jpg', thumb: './images/2026-07-13_thumb.jpg', name: '羚羊峡谷，纳瓦霍族保留地，亚利桑那州，美国 (© Mark Skalny/Getty Images)' },
         { src: './images/2026-07-12.jpg', thumb: './images/2026-07-12_thumb.jpg', name: '卡塔丁森林和水域国家纪念地，缅因州，美国 (© Cavan Images/Offset/Shutterstock)' },
