@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-07-17.jpg', thumb: './images/2026-07-17_thumb.jpg', name: '瓦伊海滩上的日光浴躺椅，克里特岛，希腊 (© borchee/Getty Images)' },
         { src: './images/2026-07-16.jpg', thumb: './images/2026-07-16_thumb.jpg', name: '海军码头，芝加哥，伊利诺伊州，美国 (© Christopher.F Photography/Getty Images)' },
         { src: './images/2026-07-15.jpg', thumb: './images/2026-07-15_thumb.jpg', name: '玛丽湖，约翰·缪尔荒野（毕晓普附近），加利福尼亚州，美国 (© Steve Dunleavy/Getty Images)' },
         { src: './images/2026-07-14.jpg', thumb: './images/2026-07-14_thumb.jpg', name: '柠檬鲨幼崽在红树林中，伊柳塞拉岛，巴哈马 (© Shane Gross/Nature Picture Library)' },
