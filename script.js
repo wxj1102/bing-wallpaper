@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-07-22.jpg', thumb: './images/2026-07-22_thumb.jpg', name: '珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock)' },
         { src: './images/2026-07-21.jpg', thumb: './images/2026-07-21_thumb.jpg', name: '圣卡塔琳娜拱门，安提瓜，危地马拉 (© Filippo Maria Bianchi/Getty Images)' },
         { src: './images/2026-07-20.jpg', thumb: './images/2026-07-20_thumb.jpg', name: '月球与地球由阿耳忒弥斯2号机组人员拍摄 (© NASA)' },
         { src: './images/2026-07-19.jpg', thumb: './images/2026-07-19_thumb.jpg', name: '不同亚种的家燕聚在一起休息 (© Oscar Dominguez/Tandem Stills + Motion)' },
