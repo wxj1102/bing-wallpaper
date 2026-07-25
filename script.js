@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-07-25.jpg', thumb: './images/2026-07-25_thumb.jpg', name: '大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)' },
         { src: './images/2026-07-24.jpg', thumb: './images/2026-07-24_thumb.jpg', name: '美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)' },
         { src: './images/2026-07-23.jpg', thumb: './images/2026-07-23_thumb.jpg', name: '粉红色大丽花 (© Harald Biebel/Getty Images)' },
         { src: './images/2026-07-22.jpg', thumb: './images/2026-07-22_thumb.jpg', name: '珊瑚礁与海滩在拉贾安帕特，印度尼西亚 (© SergeUWPhoto/Shutterstock)' },
