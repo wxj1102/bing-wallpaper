@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-07-27.jpg', thumb: './images/2026-07-27_thumb.jpg', name: '蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国 (© Felix Lipov/Shutterstock)' },
         { src: './images/2026-07-26.jpg', thumb: './images/2026-07-26_thumb.jpg', name: '红树上的日出在小猪群岛，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)' },
         { src: './images/2026-07-25.jpg', thumb: './images/2026-07-25_thumb.jpg', name: '大教堂海滩，加利西亚，西班牙 (© Tui De Roy/Amazing Aerial Agency/Abobe Stock)' },
         { src: './images/2026-07-24.jpg', thumb: './images/2026-07-24_thumb.jpg', name: '美洲红鹳群在伊莎贝拉岛，加拉帕戈斯群岛，厄瓜多尔 (© Tui De Roy/Nature Picture Library)' },
