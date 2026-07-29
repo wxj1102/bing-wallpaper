@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-07-29.jpg', thumb: './images/2026-07-29_thumb.jpg', name: '孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)' },
         { src: './images/2026-07-28.jpg', thumb: './images/2026-07-28_thumb.jpg', name: '一片海藻林在安纳卡帕岛附近，海峡群岛国家公园，加利福尼亚州，美国 (© Ian Shive/Tandem Stills + Motion)' },
         { src: './images/2026-07-27.jpg', thumb: './images/2026-07-27_thumb.jpg', name: '蒂芙尼穹顶，芝加哥文化中心，伊利诺伊州，美国 (© Felix Lipov/Shutterstock)' },
         { src: './images/2026-07-26.jpg', thumb: './images/2026-07-26_thumb.jpg', name: '红树上的日出在小猪群岛，洪都拉斯 (© Mac Stone/Tandem Stills + Motion)' },
