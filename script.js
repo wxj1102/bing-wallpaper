@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-08-01.jpg', thumb: './images/2026-08-01_thumb.jpg', name: '大批熔岩流涌入大洋，大岛，夏威夷州，美国 (© Ken McCurdy/Getty Images)' },
         { src: './images/2026-07-31.jpg', thumb: './images/2026-07-31_thumb.jpg', name: '鸟瞰弗吉尼亚爬山虎步道，达马斯克斯，弗吉尼亚州，美国 (© Eifel Kreutz/Getty Images)' },
         { src: './images/2026-07-30.jpg', thumb: './images/2026-07-30_thumb.jpg', name: '在纳瓦霍族保留地的纪念碑谷，亚利桑那州，美国 (© Westend61/Adobe Stock)' },
         { src: './images/2026-07-29.jpg', thumb: './images/2026-07-29_thumb.jpg', name: '孟加拉虎一家在兰坦博尔国家公园，拉贾斯坦邦，印度 (© Archna Singh/Shutterstock)' },
