@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-08-05.jpg', thumb: './images/2026-08-05_thumb.jpg', name: '非斯皇宫装饰华丽的大门，摩洛哥 (© cgst26/Shutterstock)' },
         { src: './images/2026-08-04.jpg', thumb: './images/2026-08-04_thumb.jpg', name: '佛罗里达穴鸮幼鸟，开普科拉尔，佛罗里达州，美国 (© mlorenzphotography/Getty Images)' },
         { src: './images/2026-08-03.jpg', thumb: './images/2026-08-03_thumb.jpg', name: '马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)' },
         { src: './images/2026-08-02.jpg', thumb: './images/2026-08-02_thumb.jpg', name: '马尔萨什洛克港口五彩斑斓的渔船，马耳他 (© Klubovy/Getty Images)' },
