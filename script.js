@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-08-10.jpg', thumb: './images/2026-08-10_thumb.jpg', name: '约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)' },
         { src: './images/2026-08-09.jpg', thumb: './images/2026-08-09_thumb.jpg', name: '让-马里·吉巴乌文化中心，新喀里多尼亚 (© Fabien Astre/Alamy)' },
         { src: './images/2026-08-08.jpg', thumb: './images/2026-08-08_thumb.jpg', name: '蒂斯河畔斯托克顿无限桥，英格兰 (© Bahadir Yeniceri/Shutterstock)' },
         { src: './images/2026-08-07.jpg', thumb: './images/2026-08-07_thumb.jpg', name: '圣胡安岛石灰窑灯塔，华盛顿州，美国 (© Edmund Lowe Photography/Shutterstock)' },
