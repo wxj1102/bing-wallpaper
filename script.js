@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-08-13.jpg', thumb: './images/2026-08-13_thumb.jpg', name: '泰德天文台上空的英仙座流星，加那利群岛，西班牙 (© Westend61/Getty Images)' },
         { src: './images/2026-08-12.jpg', thumb: './images/2026-08-12_thumb.jpg', name: '安博塞利国家公园的非洲草原象群，卡贾多郡，肯尼亚 (© Ibrahim Suha Derbent/Getty Images)' },
         { src: './images/2026-08-11.jpg', thumb: './images/2026-08-11_thumb.jpg', name: '哥本哈根新港运河沿岸的彩色房屋，首都大区，丹麦 (© emicristea/Getty Images)' },
         { src: './images/2026-08-10.jpg', thumb: './images/2026-08-10_thumb.jpg', name: '约书亚树国家公园，加利福尼亚州，美国 (© JJ Landscapes/Getty Images)' },
