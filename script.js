@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-08-17.jpg', thumb: './images/2026-08-17_thumb.jpg', name: '海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)' },
         { src: './images/2026-08-16.jpg', thumb: './images/2026-08-16_thumb.jpg', name: '戈尔韦郡罗斯埃里利方济各会修道院遗址，康诺特省，爱尔兰 (© Maria Janus/Shutterstock)' },
         { src: './images/2026-08-15.jpg', thumb: './images/2026-08-15_thumb.jpg', name: '圣胡安县阿什斯利帕荒野地的奇岩柱，新墨西哥州，美国 (© Westend61/Getty Images)' },
         { src: './images/2026-08-14.jpg', thumb: './images/2026-08-14_thumb.jpg', name: '扎克舒夫附近的野生动物通道，波兰 (© bbsferrari/Getty Images)' },
