@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-08-20.jpg', thumb: './images/2026-08-20_thumb.jpg', name: '林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)' },
         { src: './images/2026-08-19.jpg', thumb: './images/2026-08-19_thumb.jpg', name: '怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)' },
         { src: './images/2026-08-18.jpg', thumb: './images/2026-08-18_thumb.jpg', name: '弗留利要塞城市帕尔马诺瓦航拍图，意大利 (© Riccardo Saponi/Getty Images)' },
         { src: './images/2026-08-17.jpg', thumb: './images/2026-08-17_thumb.jpg', name: '海葵中的三条眼斑双锯鱼，卡比劳岛，薄荷省，菲律宾 (© Franco Banfi/Nature Picture Library)' },
