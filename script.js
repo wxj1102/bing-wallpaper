@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-08-22.jpg', thumb: './images/2026-08-22_thumb.jpg', name: '普通蓝灰蝶，德文郡，英格兰 (© Ross Hoddinott/Nature Picture Library)' },
         { src: './images/2026-08-21.jpg', thumb: './images/2026-08-21_thumb.jpg', name: '尤利尔山口蜿蜒的公路，瑞士 (© Westend61/Getty Images)' },
         { src: './images/2026-08-20.jpg', thumb: './images/2026-08-20_thumb.jpg', name: '林恩运河中浮出水面的虎鲸，奇尔卡特山脉附近，阿拉斯加州，美国 (© John Hyde/Alamy)' },
         { src: './images/2026-08-19.jpg', thumb: './images/2026-08-19_thumb.jpg', name: '怀特克利夫公园，西温哥华，加拿大 (© Aolin Chen/Getty Images)' },
