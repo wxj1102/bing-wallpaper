@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-08-26.jpg', thumb: './images/2026-08-26_thumb.jpg', name: '基尔丘山上空的极光，冰岛 (© Cavan Images/Alamy)' },
         { src: './images/2026-08-25.jpg', thumb: './images/2026-08-25_thumb.jpg', name: '红木国家与州立公园的日出，加利福尼亚州，美国 (© HadelProductions/Getty Images)' },
         { src: './images/2026-08-24.jpg', thumb: './images/2026-08-24_thumb.jpg', name: '布鲁克林大桥，纽约市，美国 (© shayes17/Getty Images)' },
         { src: './images/2026-08-23.jpg', thumb: './images/2026-08-23_thumb.jpg', name: '在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国 (© jia yu/Getty Images)' },
