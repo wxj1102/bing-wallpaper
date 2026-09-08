@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-09-08.jpg', thumb: './images/2026-09-08_thumb.jpg', name: '东米恩南唐斯国家公园谷物田中的山毛榉树，汉普郡，英格兰 (© Guy Edwardes/Minden Pictures)' },
         { src: './images/2026-09-07.jpg', thumb: './images/2026-09-07_thumb.jpg', name: '老市政厅，班贝格，德国 (© SCStock/Getty Images)' },
         { src: './images/2026-09-06.jpg', thumb: './images/2026-09-06_thumb.jpg', name: '菲安斯湖，格兰屏国家公园，维多利亚州，澳大利亚 (© tracielouise/Getty Images)' },
         { src: './images/2026-09-05.jpg', thumb: './images/2026-09-05_thumb.jpg', name: '龙虾爪花上取食的绿顶辉蜂鸟，哥斯达黎加 (© Paul Hobson/Nature Picture Library)' },
