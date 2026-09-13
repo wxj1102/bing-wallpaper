@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-09-13.jpg', thumb: './images/2026-09-13_thumb.jpg', name: '米苏里纳群峰，多洛米蒂山脉，威尼托大区，意大利 (© Vithun Khamsong/Getty Images)' },
         { src: './images/2026-09-12.jpg', thumb: './images/2026-09-12_thumb.jpg', name: '墨西哥近海围猎沙丁鱼饵球的加州海狮，太平洋 (© Henley Spiers/Nature Picture Library)' },
         { src: './images/2026-09-11.jpg', thumb: './images/2026-09-11_thumb.jpg', name: '滨海自由城，法国里维埃拉，法国 (© StockByM/Getty Images)' },
         { src: './images/2026-09-10.jpg', thumb: './images/2026-09-10_thumb.jpg', name: '奥尔韦拉航拍图，安达卢西亚，西班牙 (© Marco Bottigelli/Getty Images)' },
