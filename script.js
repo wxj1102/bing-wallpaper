@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-09-17.jpg', thumb: './images/2026-09-17_thumb.jpg', name: '桑特奈葡萄酒产区葡萄园中的索林风车，伯恩丘，勃艮第，法国 (© Marco Bottigelli/Getty Images)' },
         { src: './images/2026-09-16.jpg', thumb: './images/2026-09-16_thumb.jpg', name: '斯瓦尔巴群岛玩耍的北极熊幼崽，挪威 (© Danny Green/Nature Picture Library)' },
         { src: './images/2026-09-15.jpg', thumb: './images/2026-09-15_thumb.jpg', name: '红绿金刚鹦鹉 (© markes51/Getty Images)' },
         { src: './images/2026-09-14.jpg', thumb: './images/2026-09-14_thumb.jpg', name: '地肤田，中国 (© lingqi xie/Getty Images)' },
