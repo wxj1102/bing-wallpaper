@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-09-22.jpg', thumb: './images/2026-09-22_thumb.jpg', name: '瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)' },
         { src: './images/2026-09-21.jpg', thumb: './images/2026-09-21_thumb.jpg', name: '正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国 (© Suzi Eszterhas/Minden Pictures)' },
         { src: './images/2026-09-20.jpg', thumb: './images/2026-09-20_thumb.jpg', name: '日落时分的埃菲尔铁塔，巴黎，法国 (© Alexander Spatari/Getty Images)' },
         { src: './images/2026-09-19.jpg', thumb: './images/2026-09-19_thumb.jpg', name: '阿尔卑斯长号演奏者，巴伐利亚州，德国 (© U. J. Alexander/Shutterstock)' },
