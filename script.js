@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-09-24.jpg', thumb: './images/2026-09-24_thumb.jpg', name: '黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)' },
         { src: './images/2026-09-23.jpg', thumb: './images/2026-09-23_thumb.jpg', name: '地坛公园秋日美景，北京，中国 (© by Wei/Adobestock)' },
         { src: './images/2026-09-22.jpg', thumb: './images/2026-09-22_thumb.jpg', name: '瓜兹曼山口附近的秋日山杨林，犹他州，美国 (© Danita Delimont/Shutterstock)' },
         { src: './images/2026-09-21.jpg', thumb: './images/2026-09-21_thumb.jpg', name: '正在梳理皮毛的海獭，蒙特雷湾，加利福尼亚州，美国 (© Suzi Eszterhas/Minden Pictures)' },
