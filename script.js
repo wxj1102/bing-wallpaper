@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-09-26.jpg', thumb: './images/2026-09-26_thumb.jpg', name: '熊耳国家纪念区附近的雪松台地和骡子角，犹他州，美国 (© Jeff Clay/Tandem Stills + Motion)' },
         { src: './images/2026-09-25.jpg', thumb: './images/2026-09-25_thumb.jpg', name: '庆祝中秋节的中国灯笼 (© LeeYiuTung/Getty Images)' },
         { src: './images/2026-09-24.jpg', thumb: './images/2026-09-24_thumb.jpg', name: '黑色熔岩海滩鸟瞰图，埃尔戈尔福，兰萨罗特岛，加那利群岛，西班牙 (© Westend61/Adobe Stock)' },
         { src: './images/2026-09-23.jpg', thumb: './images/2026-09-23_thumb.jpg', name: '地坛公园秋日美景，北京，中国 (© by Wei/Adobestock)' },
