@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-09-30.jpg', thumb: './images/2026-09-30_thumb.jpg', name: '雄性文须雀，诺福克郡，英格兰 (© Andrew Sproule/Shutterstock)' },
         { src: './images/2026-09-29.jpg', thumb: './images/2026-09-29_thumb.jpg', name: '卡西洛夫河冰川融水滋养的湛蓝河水，阿拉斯加州，美国 (© jared lloyd/Getty Images)' },
         { src: './images/2026-09-28.jpg', thumb: './images/2026-09-28_thumb.jpg', name: '斋浦尔附近琥珀堡内的 Sattais Katcheri 大厅，拉贾斯坦邦，印度 (© R.M. Nunes/Getty Images)' },
         { src: './images/2026-09-27.jpg', thumb: './images/2026-09-27_thumb.jpg', name: '海笔上的装饰蟹，科莫多国家公园，印度尼西亚 (© Alex Mustard/Nature Picture Library)' },
