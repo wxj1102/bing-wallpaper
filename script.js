@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-10-03.jpg', thumb: './images/2026-10-03_thumb.jpg', name: '美国阿拉斯加州克拉克湖国家公园和自然保护区银鲑溪中的棕熊 (© Danny Green/Nature Picture Library)' },
         { src: './images/2026-10-02.jpg', thumb: './images/2026-10-02_thumb.jpg', name: '查图加河，阿巴拉契亚山脉，北卡罗来纳州，美国 (© mtilghma/Getty Images)' },
         { src: './images/2026-10-01.jpg', thumb: './images/2026-10-01_thumb.jpg', name: '奥姆斯特德观景点的日落，优胜美地国家公园，加利福尼亚州，美国 (© Robb Hirsch/Tandem Stills + Motion)' },
         { src: './images/2026-09-30.jpg', thumb: './images/2026-09-30_thumb.jpg', name: '雄性文须雀，诺福克郡，英格兰 (© Andrew Sproule/Shutterstock)' },
