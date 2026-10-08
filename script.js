@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-10-08.jpg', thumb: './images/2026-10-08_thumb.jpg', name: '印度洋马约特岛，一只呈防御姿态的章鱼 (© Gabriel Barathieu/Minden Pictures)' },
         { src: './images/2026-10-07.jpg', thumb: './images/2026-10-07_thumb.jpg', name: '覆满苔藓的岩石，英国格洛斯特郡谜林，迪恩森林，格洛斯特郡，英格兰 (© Fulcanelli_AOS/Getty Images)' },
         { src: './images/2026-10-06.jpg', thumb: './images/2026-10-06_thumb.jpg', name: '丹霞地貌，张掖国家地质公园，甘肃省，中国 (© Weiquan Lin/Getty Images)' },
         { src: './images/2026-10-05.jpg', thumb: './images/2026-10-05_thumb.jpg', name: '南极洲的阿德利企鹅 (© Otto Plantema/Minden Pictures)' },
