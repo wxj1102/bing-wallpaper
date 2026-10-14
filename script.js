@@ -2,6 +2,7 @@ document.addEventListener("DOMContentLoaded", function() {
     const gallery = document.getElementById('gallery');
     const loader = document.getElementById('loader');
     const images = [
+        { src: './images/2026-10-14.jpg', thumb: './images/2026-10-14_thumb.jpg', name: '侏罗纪时期的菊石化石 (© J Nemchinova/Getty Images)' },
         { src: './images/2026-10-13.jpg', thumb: './images/2026-10-13_thumb.jpg', name: '普利特维采湖群国家公园，克罗地亚 (© Jan Wlodarczyk/Alamy)' },
         { src: './images/2026-10-12.jpg', thumb: './images/2026-10-12_thumb.jpg', name: '曼布尔斯码头，斯旺西，威尔士 (© Helen Hotson/Shutterstock)' },
         { src: './images/2026-10-11.jpg', thumb: './images/2026-10-11_thumb.jpg', name: '格莱德溪磨坊，巴布科克州立公园，西弗吉尼亚州，美国 (© dszc/Getty Images)' },
